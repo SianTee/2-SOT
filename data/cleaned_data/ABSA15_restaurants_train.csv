@@ -1,0 +1,1280 @@
+Sentence text,Aspect text,Aspect position,Polarity,Position
+judging from previous posts this used to be a good place but not any longer,place,"[10, 11]",negative,0
+we there were four of us arrived at noon the place was empty and the staff acted like we were imposing on them and they were very rude,staff,"[15, 16]",negative,1
+the food was lousy too sweet or too salty and the portions tiny,food,"[1, 2]",negative,2
+the food was lousy too sweet or too salty and the portions tiny,portions,"[11, 12]",negative,3
+avoid this place,place,"[2, 3]",negative,4
+i have eaten at saul many times the food is always consistently outrageously good,food,"[8, 9]",positive,5
+saul is the best restaurant on smith street and in brooklyn,saul,"[0, 1]",positive,6
+the duck confit is always amazing and the foie gras terrine with figs was out of this world,foie gras terrine with figs,"[8, 13]",positive,7
+the duck confit is always amazing and the foie gras terrine with figs was out of this world,duck confit,"[1, 3]",positive,8
+the wine list is interesting and has many good values,wine list,"[1, 3]",positive,9
+the wine list is interesting and has many good values,wine list,"[1, 3]",positive,10
+i was very disappointed with this restaurant,restaurant,"[6, 7]",negative,11
+ive asked a cart attendant for a lotus leaf wrapped rice and she replied back rice and just walked away,cart attendant,"[3, 5]",negative,12
+food was okay nothing great,food,"[0, 1]",neutral,13
+chow fun was dry pork shu mai was more than usually greasy and had to share a table with loud and rude family,chow fun,"[0, 2]",negative,14
+chow fun was dry pork shu mai was more than usually greasy and had to share a table with loud and rude family,pork shu mai,"[4, 7]",negative,15
+i we will never go back to this place again,place,"[8, 9]",negative,16
+went on a 3 day oyster binge with fish bringing up the closing and i am so glad this was the place it o trip ended because it was so great,fish,"[8, 9]",positive,17
+service was devine oysters where a sensual as they come and the price can t be beat,service,"[0, 1]",positive,18
+service was devine oysters where a sensual as they come and the price can t be beat,oysters,"[3, 4]",positive,19
+every time in new york i make it a point to visit restaurant saul on smith street,restaurant saul,"[12, 14]",positive,20
+everything is always cooked to perfection the service is excellent the decor cool and understated,service,"[7, 8]",positive,21
+everything is always cooked to perfection the service is excellent the decor cool and understated,decor,"[11, 12]",positive,22
+i had the duck breast special on my last visit and it was incredible,duck breast special,"[3, 6]",positive,23
+the food is very average the thai fusion stuff is a bit too sweet every thing they serve is too sweet here,food,"[1, 2]",negative,24
+the food is very average the thai fusion stuff is a bit too sweet every thing they serve is too sweet here,thai fusion stuff,"[6, 9]",negative,25
+the only thing i moderately enjoyed was their grilled chicken special with edamame puree,grilled chicken special with edamame puree,"[8, 14]",positive,26
+i had never had edamame pureed before but i thought it was innovative and tasty could ve used a bit more salt,edamame pureed,"[4, 6]",positive,27
+i had never had edamame pureed before but i thought it was innovative and tasty could ve used a bit more salt,edamame pureed,"[4, 6]",positive,28
+the decor is night tho but they really need to clean that vent in the ceiling its quite un appetizing and kills your effort to make this place look sleek and modern,place,"[27, 28]",negative,29
+the decor is night tho but they really need to clean that vent in the ceiling its quite un appetizing and kills your effort to make this place look sleek and modern,decor,"[1, 2]",positive,30
+the decor is night tho but they really need to clean that vent in the ceiling its quite un appetizing and kills your effort to make this place look sleek and modern,vent,"[12, 13]",negative,31
+their sake list was extensive but we were looking for purple haze which wasn t listed but made for us upon request,sake list,"[1, 3]",positive,32
+the spicy tuna roll was unusually good and the rock shrimp tempura was awesome great appetizer to share,spicy tuna roll,"[1, 4]",positive,33
+the spicy tuna roll was unusually good and the rock shrimp tempura was awesome great appetizer to share,rock shrimp tempura,"[9, 12]",positive,34
+we went around 9 30 on a friday and it had died down a bit by then so the service was great,service,"[19, 20]",positive,35
+we love th pink pony,pink pony,"[3, 5]",positive,36
+the perfect spot,spot,"[2, 3]",positive,37
+food awesome,food,"[0, 1]",positive,38
+service friendly and attentive,service,"[0, 1]",positive,39
+ambiance relaxed and stylish,ambiance,"[0, 1]",positive,40
+don t judge this place prima facie you have to try it to believe it a home away from home for the literate heart,place,"[4, 5]",positive,41
+the food is decent,food,"[1, 2]",neutral,42
+however it s the service that leaves a bad taste in my mouth,service,"[4, 5]",negative,43
+i happen to have a policy that goes along with a little bit of self respect which includes not letting a waiter intimidate me i e make me feel bad asking for trivialities like water or the check,waiter,"[21, 22]",negative,44
+this place has got to be the best japanese restaurant in the new york area,place,"[1, 2]",positive,45
+food is great,food,"[0, 1]",positive,46
+service is top notch,service,"[0, 1]",positive,47
+i tend to judge a sushi restaurant by its sea urchin which was heavenly at sushi rose,sea urchin,"[9, 11]",positive,48
+the sushi seemed pretty fresh and was adequately proportioned,sushi,"[1, 2]",positive,49
+the sushi seemed pretty fresh and was adequately proportioned,sushi,"[1, 2]",positive,50
+the rice to fish ration was also good they didn t try to overpack the rice,rice to fish ration,"[1, 5]",positive,51
+we took advanatage of the half price sushi deal on saturday so it was well worth it,half price sushi deal,"[5, 9]",positive,52
+in the evening this place attracted a well dressed with it ny crowd,crowd,"[12, 13]",positive,53
+the food was well prepared and the service impecable,food,"[1, 2]",positive,54
+the food was well prepared and the service impecable,service,"[7, 8]",positive,55
+the prix fixe menu is worth every penny and you get more than enough both in quantity and quality,prix fixe menu,"[1, 4]",positive,56
+the prix fixe menu is worth every penny and you get more than enough both in quantity and quality,prix fixe menu,"[1, 4]",positive,57
+the prix fixe menu is worth every penny and you get more than enough both in quantity and quality,prix fixe menu,"[1, 4]",positive,58
+6 and there is much tasty food all of it fresh and continually refilled,food,"[6, 7]",positive,59
+6 and there is much tasty food all of it fresh and continually refilled,food,"[6, 7]",positive,60
+6 and there is much tasty food all of it fresh and continually refilled,food,"[6, 7]",positive,61
+i am not a vegetarian but almost all the dishes were great,dishes,"[9, 10]",positive,62
+the food here is rather good but only if you like to wait for it,food,"[1, 2]",positive,63
+i like the somosas chai and the chole but the dhosas and dhal were kinda dissapointing,somosas,"[3, 4]",positive,64
+i like the somosas chai and the chole but the dhosas and dhal were kinda dissapointing,chai,"[4, 5]",positive,65
+i like the somosas chai and the chole but the dhosas and dhal were kinda dissapointing,chole,"[7, 8]",positive,66
+i like the somosas chai and the chole but the dhosas and dhal were kinda dissapointing,dhosas,"[10, 11]",negative,67
+i like the somosas chai and the chole but the dhosas and dhal were kinda dissapointing,dhal,"[12, 13]",negative,68
+the service varys from day to day sometimes they re very nice and sometimes not,service,"[1, 2]",negative,69
+the kitchen however is almost always slow,kitchen,"[1, 2]",negative,70
+also specify if you like your food spicy its rather bland if you don t,food,"[6, 7]",negative,71
+the ambience is pretty and nice for conversation so a casual lunch here would probably be best,ambience,"[1, 2]",positive,72
+if you ve ever been along the river in weehawken you have an idea of the top of view the chart house has to offer,view,"[18, 19]",positive,73
+add to that great service and great food at a reasonable price and you have yourself the beginning of a great evening,service,"[4, 5]",positive,74
+add to that great service and great food at a reasonable price and you have yourself the beginning of a great evening,food,"[7, 8]",positive,75
+add to that great service and great food at a reasonable price and you have yourself the beginning of a great evening,food,"[7, 8]",positive,76
+the lava cake dessert was incredible and i recommend it,lava cake dessert,"[1, 4]",positive,77
+once you step into cosette you re miraculously in a small off the beaten path parisian bistro,cosette,"[4, 5]",positive,78
+this tiny restaurant is as cozy as it gets with that certain parisian flair,restaurant,"[2, 3]",positive,79
+the food was average to above average the french onion soup filling yet not overly impressive and the desserts not brilliant in any way,food,"[1, 2]",positive,80
+the food was average to above average the french onion soup filling yet not overly impressive and the desserts not brilliant in any way,french onion soup,"[8, 11]",negative,81
+the food was average to above average the french onion soup filling yet not overly impressive and the desserts not brilliant in any way,french onion soup,"[8, 11]",positive,82
+the food was average to above average the french onion soup filling yet not overly impressive and the desserts not brilliant in any way,desserts,"[18, 19]",negative,83
+however go for the ambience and consider the food just a companion for a trip across the world,ambience,"[4, 5]",positive,84
+however go for the ambience and consider the food just a companion for a trip across the world,food,"[8, 9]",neutral,85
+the pizza was delivered cold and the cheese wasn t even fully melted,pizza,"[1, 2]",negative,86
+the pizza was delivered cold and the cheese wasn t even fully melted,cheese,"[7, 8]",negative,87
+the pizza is overpriced and soggy,pizza,"[1, 2]",negative,88
+the pizza is overpriced and soggy,pizza,"[1, 2]",negative,89
+yes they use fancy ingredients but even fancy ingredients don t make for good pizza unless someone knows how to get the crust right,ingredients,"[4, 5]",positive,90
+yes they use fancy ingredients but even fancy ingredients don t make for good pizza unless someone knows how to get the crust right,pizza,"[14, 15]",negative,91
+yes they use fancy ingredients but even fancy ingredients don t make for good pizza unless someone knows how to get the crust right,crust,"[22, 23]",negative,92
+i think i ve had some the best meals of my life at minnow,meals,"[8, 9]",positive,93
+the seafood is amazing there s a good wine list and the ever changing menu always offers some great surprises,seafood,"[1, 2]",positive,94
+the seafood is amazing there s a good wine list and the ever changing menu always offers some great surprises,wine list,"[8, 10]",positive,95
+the seafood is amazing there s a good wine list and the ever changing menu always offers some great surprises,menu,"[14, 15]",positive,96
+the combination of super fresh ingredients in the dishes are unusual but really delicious,ingredients,"[5, 6]",positive,97
+best pastrami i ever had and great portion without being ridiculous,pastrami,"[1, 2]",positive,98
+best pastrami i ever had and great portion without being ridiculous,portion,"[7, 8]",positive,99
+my wife had the fried shrimp which are huge and loved it,fried shrimp,"[4, 6]",positive,100
+my wife had the fried shrimp which are huge and loved it,fried shrimp,"[4, 6]",positive,101
+as a japanese native i ve lived in the tristate area for over 8 years but i was just so amazed at this place,place,"[23, 24]",positive,102
+this place is the most japanese it can ever get,place,"[1, 2]",positive,103
+the signs the specials menus food and even all the waitstaff are all totally japanese,signs,"[1, 2]",positive,104
+the signs the specials menus food and even all the waitstaff are all totally japanese,specials menus,"[3, 5]",positive,105
+the signs the specials menus food and even all the waitstaff are all totally japanese,food,"[5, 6]",positive,106
+the signs the specials menus food and even all the waitstaff are all totally japanese,waitstaff,"[10, 11]",positive,107
+this place is worth an one hour drive,place,"[1, 2]",positive,108
+leon is an east village gem casual but hip with well prepared basic french bistro fare good specials a warm and lively atmosphere,leon,"[0, 1]",positive,109
+leon is an east village gem casual but hip with well prepared basic french bistro fare good specials a warm and lively atmosphere,leon,"[0, 1]",positive,110
+leon is an east village gem casual but hip with well prepared basic french bistro fare good specials a warm and lively atmosphere,specials,"[17, 18]",positive,111
+leon is an east village gem casual but hip with well prepared basic french bistro fare good specials a warm and lively atmosphere,atmosphere,"[22, 23]",positive,112
+leon is an east village gem casual but hip with well prepared basic french bistro fare good specials a warm and lively atmosphere,french bistro fare,"[13, 16]",positive,113
+my wife and i always enjoy the young not always well trained but nevertheless friendly staff all of whom have a story,staff,"[15, 16]",positive,114
+decent wine at reasonable prices,wine,"[1, 2]",neutral,115
+decent wine at reasonable prices,wine,"[1, 2]",positive,116
+everytime i decide to try another place on the ues i get angry that i didn t just go to zucchero pomodori,zucchero pomodori,"[20, 22]",positive,117
+this is by far my favorite place in the neighborhood,place,"[6, 7]",positive,118
+the service is excellent the decor is great and the food is delicious and comes in large portions,service,"[1, 2]",positive,119
+the service is excellent the decor is great and the food is delicious and comes in large portions,decor,"[5, 6]",positive,120
+the service is excellent the decor is great and the food is delicious and comes in large portions,food,"[10, 11]",positive,121
+the service is excellent the decor is great and the food is delicious and comes in large portions,portions,"[17, 18]",positive,122
+i m partial to the gnocchi,gnocchi,"[5, 6]",positive,123
+this place is incredibly tiny,place,"[1, 2]",negative,124
+the hostess is rude to the point of being offensive,hostess,"[1, 2]",negative,125
+the food was bland oily,food,"[1, 2]",negative,126
+we have been to this place many times and always have great food wine and service,food,"[12, 13]",positive,127
+we have been to this place many times and always have great food wine and service,wine,"[13, 14]",positive,128
+we have been to this place many times and always have great food wine and service,service,"[15, 16]",positive,129
+we were worried we would have trouble getting in but somehow managed to have a short wait,wait,"[16, 17]",positive,130
+as always we had a great glass of wine while we waited,glass of wine,"[6, 9]",positive,131
+when we sat we got great and fast service,service,"[8, 9]",positive,132
+the people that work there are always so friendly you forget you are in new york sometimes,people,"[1, 2]",positive,133
+make sure you try this place as often as you can,place,"[5, 6]",positive,134
+this is a fun restaurant to go to,restaurant,"[4, 5]",positive,135
+the pizza is yummy and i like the atmoshpere,pizza,"[1, 2]",positive,136
+the pizza is yummy and i like the atmoshpere,atmoshpere,"[8, 9]",positive,137
+but the pizza is way to expensive,pizza,"[2, 3]",negative,138
+i went there for lunch and it was not as good as i expected from the reviews i read,lunch,"[4, 5]",negative,139
+sauce was watery and the food didn t have much flavor,sauce,"[0, 1]",negative,140
+sauce was watery and the food didn t have much flavor,food,"[5, 6]",negative,141
+this place is great,place,"[1, 2]",positive,142
+the waitress was very patient with us and the food is phenomenal,waitress,"[1, 2]",positive,143
+the waitress was very patient with us and the food is phenomenal,food,"[9, 10]",positive,144
+service was prompt friendly and great,service,"[0, 1]",positive,145
+great pizza and fantastic service,pizza,"[1, 2]",positive,146
+great pizza and fantastic service,service,"[4, 5]",positive,147
+there was a small wait but shorter than i expected,wait,"[4, 5]",positive,148
+this is the best sushi in new york city hands down,sushi,"[4, 5]",positive,149
+the place is small and cramped but the food is fantastic,place,"[1, 2]",negative,150
+the place is small and cramped but the food is fantastic,food,"[8, 9]",positive,151
+get the tuna of gari,tuna of gari,"[2, 5]",positive,152
+planet thailand has always been a hit with me i go there usually for the sushi which is great the thai food is excellent too,sushi,"[15, 16]",positive,153
+planet thailand has always been a hit with me i go there usually for the sushi which is great the thai food is excellent too,thai food,"[20, 22]",positive,154
+planet thailand has always been a hit with me i go there usually for the sushi which is great the thai food is excellent too,planet thailand,"[0, 2]",positive,155
+with the great variety on the menu i eat here often and never get bored,menu,"[6, 7]",positive,156
+the atmosphere isn t the greatest but i suppose that s how they keep the prices down,atmosphere,"[1, 2]",negative,157
+it s all about the food,food,"[5, 6]",positive,158
+first it took us a long time to find the place,place,"[10, 11]",negative,159
+but when we looked at the menu there weren t a lot of choices most of them were dumplings in the appetizer section,menu,"[6, 7]",negative,160
+those rolls were big but not good and sashimi wasn t fresh,rolls,"[1, 2]",neutral,161
+those rolls were big but not good and sashimi wasn t fresh,rolls,"[1, 2]",negative,162
+those rolls were big but not good and sashimi wasn t fresh,sashimi,"[8, 9]",negative,163
+try the crunchy tuna it is to die for,crunchy tuna,"[2, 4]",positive,164
+first went here to enjoy their garden terrace,garden terrace,"[6, 8]",positive,165
+the food was amazing and the service was prompt and helpful but not over bearing or rushed,food,"[1, 2]",positive,166
+the food was amazing and the service was prompt and helpful but not over bearing or rushed,service,"[6, 7]",positive,167
+the steak tartare is a great bet they fix it for you at the table,steak tartare,"[1, 3]",positive,168
+admittedly some nights inside the restaurant were rather warm but the open kitchen is part of the charm,open kitchen,"[11, 13]",positive,169
+admittedly some nights inside the restaurant were rather warm but the open kitchen is part of the charm,restaurant,"[5, 6]",negative,170
+great wine selection gigondas is worth the price and the house champagne is a great value,wine selection,"[1, 3]",positive,171
+great wine selection gigondas is worth the price and the house champagne is a great value,gigondas,"[3, 4]",positive,172
+great wine selection gigondas is worth the price and the house champagne is a great value,house champagne,"[10, 12]",positive,173
+it may be a bit packed on weekends but the vibe is good and it is the best french food you will find in the area,vibe,"[10, 11]",positive,174
+it may be a bit packed on weekends but the vibe is good and it is the best french food you will find in the area,french food,"[18, 20]",positive,175
+have recommended the place to friends always gets good response,place,"[3, 4]",positive,176
+pizza the only pizza in nyc that should not have additional toppings the crust tastes like the best freshly baked bread,crust,"[13, 14]",positive,177
+pizza the only pizza in nyc that should not have additional toppings the crust tastes like the best freshly baked bread,pizza,"[0, 1]",positive,178
+i take all my nyc guests to vt s,vt s,"[7, 9]",positive,179
+not sure where the previous reviewer lonk dined but saul is in a great neighborhood and has great food,neighborhood,"[14, 15]",positive,180
+not sure where the previous reviewer lonk dined but saul is in a great neighborhood and has great food,food,"[18, 19]",positive,181
+i d highly recommend it for a special occasion it provides and intimate setting and nice service,setting,"[13, 14]",positive,182
+i d highly recommend it for a special occasion it provides and intimate setting and nice service,service,"[16, 17]",positive,183
+i m not sure where the other reviewers ate but it seems as if we visited two different restaurants because my friends and i all enjoy mizu very much and we re repeat customers,mizu,"[26, 27]",positive,184
+make sure you have the spicy scallop roll,spicy scallop roll,"[5, 8]",positive,185
+moules were excellent lobster ravioli was very salty,moules,"[0, 1]",positive,186
+moules were excellent lobster ravioli was very salty,lobster ravioli,"[3, 5]",negative,187
+took my mom for mother s day and the maitre d was pretty rude,maitre d,"[9, 11]",negative,188
+tiny dessert was 8 00 just plain overpriced for what it is,dessert,"[1, 2]",negative,189
+tiny dessert was 8 00 just plain overpriced for what it is,dessert,"[1, 2]",negative,190
+tiny dessert was 8 00 just plain overpriced for what it is,dessert,"[1, 2]",negative,191
+the drinks are always welll made and wine selection is fairly priced,drinks,"[1, 2]",positive,192
+the drinks are always welll made and wine selection is fairly priced,wine selection,"[7, 9]",positive,193
+try their chef s specials they are to die for,chef s specials,"[2, 5]",positive,194
+service is not exactly five star but thats not really a big deal,service,"[0, 1]",neutral,195
+downstairs lounge is always a good attraction,downstairs lounge,"[0, 2]",positive,196
+raga s is a romantic cozy restaurant,raga s,"[0, 2]",positive,197
+the exotic food is beautifully presented and is a delight in delicious combinations,exotic food,"[1, 3]",positive,198
+the exotic food is beautifully presented and is a delight in delicious combinations,exotic food,"[1, 3]",positive,199
+the staff is incredibly helpful and attentive,staff,"[1, 2]",positive,200
+the bar is very well stocked with interesting beers and well priced wines,bar,"[1, 2]",positive,201
+the bar is very well stocked with interesting beers and well priced wines,beers,"[8, 9]",positive,202
+the bar is very well stocked with interesting beers and well priced wines,wines,"[12, 13]",positive,203
+when we stumbled on leon we thought that we had found quite the gem but we were certainly wrong,leon,"[4, 5]",negative,204
+the waitress moved our table practically into the bathroom and when we asked to cancel our dinner orders because we did not want to eat sitting on the toilet we were told no,waitress,"[1, 2]",negative,205
+rude service medicore food there are tons of restaurants in ny stay away from this one,service,"[1, 2]",negative,206
+rude service medicore food there are tons of restaurants in ny stay away from this one,food,"[3, 4]",neutral,207
+i had a grat time at jekyll and hyde,jekyll and hyde,"[6, 9]",positive,208
+i loved everythig about it especially the shows and actors,shows,"[7, 8]",positive,209
+i loved everythig about it especially the shows and actors,actors,"[9, 10]",positive,210
+our server was very helpful and friendly,server,"[1, 2]",positive,211
+the food was good too,food,"[1, 2]",positive,212
+the tuna and wasabe potatoes are excellent,tuna,"[1, 2]",positive,213
+the tuna and wasabe potatoes are excellent,wasabe potatoes,"[3, 5]",positive,214
+the outdoor atmosphere of sitting on the sidewalk watching the world go by 50 feet away on 6th avenue on a cool evening was wonderful,outdoor atmosphere,"[1, 3]",positive,215
+service was prompt and courteous,service,"[0, 1]",positive,216
+great service great food,service,"[1, 2]",positive,217
+great service great food,food,"[3, 4]",positive,218
+the pizza is delicious they use fresh mozzarella instead of the cheap frozen shredded cheese common to most pizzaria s,pizza,"[1, 2]",positive,219
+the pizza is delicious they use fresh mozzarella instead of the cheap frozen shredded cheese common to most pizzaria s,fresh mozzarella,"[6, 8]",positive,220
+two complaints their appetizer selection stinks it would be nice to get some mozzarella sticks on the menu,appetizer selection,"[3, 5]",negative,221
+wait staff is blantently unappreciative of your business but its the best pie on the uws,wait staff,"[0, 2]",negative,222
+wait staff is blantently unappreciative of your business but its the best pie on the uws,pie,"[12, 13]",positive,223
+by far the best salad i have had in a fast food restaurant,salad,"[4, 5]",positive,224
+fine dining restaurant quality,dining,"[1, 2]",positive,225
+on a recent sunday afternoon a friend and i accidently found this great restaurant on our way to see the pulitzer prize winning play doubt,restaurant,"[13, 14]",positive,226
+the chicken pot pie is excpetiona the cheeseburger huge and delictable and the service professional wan warm,chicken pot pie,"[1, 4]",positive,227
+the chicken pot pie is excpetiona the cheeseburger huge and delictable and the service professional wan warm,cheeseburger,"[7, 8]",positive,228
+the chicken pot pie is excpetiona the cheeseburger huge and delictable and the service professional wan warm,cheeseburger,"[7, 8]",positive,229
+the chicken pot pie is excpetiona the cheeseburger huge and delictable and the service professional wan warm,service,"[13, 14]",positive,230
+the staff is no nonsense,staff,"[1, 2]",positive,231
+the food options rule,food,"[1, 2]",positive,232
+when i lived upstate for a while i would buy freeze the bagels and they would still be better than any else,bagels,"[12, 13]",positive,233
+worth visiting the 1st ave spot because it is the original store,1st ave spot,"[3, 6]",positive,234
+he served me an uni hand roll which i never had before and let me tell you it was heaven,uni hand roll,"[4, 7]",positive,235
+the sake menu should not be overlooked,sake menu,"[1, 3]",positive,236
+try the lobster teriyaki and the rose special roll,lobster teriyaki,"[2, 4]",positive,237
+try the lobster teriyaki and the rose special roll,rose special roll,"[6, 9]",positive,238
+service was very good prompt attentive and non intrusive,service,"[0, 1]",positive,239
+food was very good as well considering that we tried the budget selection though i wish the pork belly that i ordered was roasted a bit longer so that fat was more of a melt in your mouth experience,food,"[0, 1]",positive,240
+food was very good as well considering that we tried the budget selection though i wish the pork belly that i ordered was roasted a bit longer so that fat was more of a melt in your mouth experience,pork belly,"[17, 19]",negative,241
+wine list selection is good and wine by the glass was generously filled to the top,wine list selection,"[0, 3]",positive,242
+wine list selection is good and wine by the glass was generously filled to the top,wine by the glass,"[6, 10]",positive,243
+traditional french decour was pleasant though the hall was rather noisy the restaurant was full and we had to raise our voices to be able to maintain a conversation,traditional french decour,"[0, 3]",positive,244
+traditional french decour was pleasant though the hall was rather noisy the restaurant was full and we had to raise our voices to be able to maintain a conversation,hall,"[7, 8]",negative,245
+i ve been to at cafe spice probably 5 8 times it is probably still the best indian restaurant around union square,cafe spice,"[5, 7]",positive,246
+to sum it up service varies from good to mediorce depending on which waiter you get generally it is just average ok,service,"[4, 5]",neutral,247
+seating is always prompt though the restaurant does fill up in the evening,seating,"[0, 1]",positive,248
+food is usually very good though ocasionally i wondered about freshmess of raw vegatables in side orders,food,"[0, 1]",positive,249
+food is usually very good though ocasionally i wondered about freshmess of raw vegatables in side orders,raw vegatables in side orders,"[12, 17]",negative,250
+the decor is vibrant and eye pleasing with several semi private boths on the right side of the dining hall which are great for a date,decor,"[1, 2]",positive,251
+the decor is vibrant and eye pleasing with several semi private boths on the right side of the dining hall which are great for a date,semi private boths,"[9, 12]",positive,252
+i have never been disappointed in the red eye,red eye,"[7, 9]",positive,253
+the first time i went and was completely taken by the live jazz band and atmosphere i ordered the lobster cobb salad,live jazz band,"[11, 14]",positive,254
+the first time i went and was completely taken by the live jazz band and atmosphere i ordered the lobster cobb salad,atmosphere,"[15, 16]",positive,255
+it s simply the best meal in nyc,meal,"[5, 6]",positive,256
+you cannot go wrong at the red eye grill,red eye grill,"[6, 9]",positive,257
+if we were to move from the upper east side we would genuinely miss this restaurant,restaurant,"[15, 16]",positive,258
+the restaurant is cute but not upscale,restaurant,"[1, 2]",neutral,259
+the food is a diamond in rough the food is delicious and homemade with the perfect balance of herbs and tomatoes,food,"[1, 2]",positive,260
+the food is a diamond in rough the food is delicious and homemade with the perfect balance of herbs and tomatoes,balance of herbs and tomatoes,"[16, 21]",positive,261
+we had a great time at the jekyll and hyde pub last night,jekyll and hyde pub,"[7, 11]",positive,262
+after really enjoying ourselves at the bar we sat down at a table and had dinner,bar,"[6, 7]",positive,263
+the server was really cool and served us our food and drinks with a smile,server,"[1, 2]",positive,264
+the place s decor and hidden bathrooms made for a good laugh,decor,"[3, 4]",positive,265
+the place s decor and hidden bathrooms made for a good laugh,hidden bathrooms,"[5, 7]",positive,266
+i highly recommend visiting this restaurant and having dinner and drinks,restaurant,"[5, 6]",positive,267
+if you are the type of person who likes being scared and entertained this is a great place to go and eat,place,"[17, 18]",positive,268
+my husband and i thougt it would be great to go to the jekyll and hyde pub for our anniversary and to our surprise it was fantastic,jekyll and hyde pub,"[13, 17]",positive,269
+the have over 100 different beers to offer thier guest so that made my husband very happy and the food was delicious if i must recommend a dish it must be the pumkin tortelini,beers,"[5, 6]",positive,270
+the have over 100 different beers to offer thier guest so that made my husband very happy and the food was delicious if i must recommend a dish it must be the pumkin tortelini,food,"[19, 20]",positive,271
+the have over 100 different beers to offer thier guest so that made my husband very happy and the food was delicious if i must recommend a dish it must be the pumkin tortelini,pumkin tortelini,"[32, 34]",positive,272
+the entertainment was great they have shows that go on through out the dinner,entertainment,"[1, 2]",positive,273
+please take my advice go and try this place,place,"[8, 9]",positive,274
+the bagel was huge,bagel,"[1, 2]",positive,275
+the workers there also absolutely load the bagel with cream cheese gets a little messy,bagel,"[7, 8]",negative,276
+this was my frist time at cafe st bart s and i must say how delicous the food and the service was,food,"[17, 18]",positive,277
+this was my frist time at cafe st bart s and i must say how delicous the food and the service was,service,"[20, 21]",positive,278
+i have to highly recommend the lobster roll not to much mayo you can tell it was a fresh lobster,lobster roll,"[6, 8]",positive,279
+i have to highly recommend the lobster roll not to much mayo you can tell it was a fresh lobster,lobster,"[6, 7]",positive,280
+other guests enjoyed pizza santa fe chopped salad and fish and chips,pizza,"[3, 4]",positive,281
+other guests enjoyed pizza santa fe chopped salad and fish and chips,santa fe chopped salad,"[4, 8]",positive,282
+other guests enjoyed pizza santa fe chopped salad and fish and chips,fish and chips,"[9, 12]",positive,283
+i highly recommend cafe st bart s for their food the ambience and wonderful service,food,"[9, 10]",positive,284
+i highly recommend cafe st bart s for their food the ambience and wonderful service,ambience,"[11, 12]",positive,285
+i highly recommend cafe st bart s for their food the ambience and wonderful service,service,"[14, 15]",positive,286
+all the staff is absolutely professional,staff,"[2, 3]",positive,287
+this restaurant was way overhyped,restaurant,"[1, 2]",negative,288
+my chow fun and chow see was really bland and oily,chow fun and chow see,"[1, 6]",negative,289
+the scallion pancakes and fried dumplings were nothing out of the ordinary,scallion pancakes,"[1, 3]",neutral,290
+the scallion pancakes and fried dumplings were nothing out of the ordinary,fried dumplings,"[4, 6]",neutral,291
+the service was the only thing good about this restaurant,service,"[1, 2]",positive,292
+the service was the only thing good about this restaurant,restaurant,"[9, 10]",negative,293
+it s boring on the inside and our sushi was pretty below average the tuna was soggy and the other rolls had no flavor,sushi,"[8, 9]",negative,294
+it s boring on the inside and our sushi was pretty below average the tuna was soggy and the other rolls had no flavor,tuna,"[14, 15]",negative,295
+it s boring on the inside and our sushi was pretty below average the tuna was soggy and the other rolls had no flavor,rolls,"[20, 21]",negative,296
+their pad penang is delicious and everything else is fantastic,pad penang,"[1, 3]",positive,297
+the price is reasonable although the service is poor,service,"[6, 7]",negative,298
+fresh restaurant was amazing food was delicious and of course fresh,fresh restaurant,"[0, 2]",positive,299
+fresh restaurant was amazing food was delicious and of course fresh,food,"[4, 5]",positive,300
+hats off to the chef,chef,"[4, 5]",positive,301
+the salads are delicious both refreshing and very spicy,salads,"[1, 2]",positive,302
+we had pam s special fried fish and it was amazing,pam s special fried fish,"[2, 7]",positive,303
+great vibe lots of people,vibe,"[1, 2]",positive,304
+i didn t complain i liked the atmosphere so much,atmosphere,"[7, 8]",positive,305
+ambience is so cute and quaint good for business although we were there on vacation,ambience,"[0, 1]",positive,306
+salads were fantastic,salads,"[0, 1]",positive,307
+although we were looking for regular lettuce and some walnuts the salads we got were great,salads,"[11, 12]",positive,308
+ingredients are organic which is a real plus for me,ingredients,"[0, 1]",positive,309
+this is some really good inexpensive sushi,sushi,"[6, 7]",positive,310
+this is some really good inexpensive sushi,sushi,"[6, 7]",positive,311
+the spicy tuna roll is huge and probably the best that i ve had at this price range,spicy tuna roll,"[1, 4]",positive,312
+the spicy tuna roll is huge and probably the best that i ve had at this price range,spicy tuna roll,"[1, 4]",positive,313
+the spicy tuna roll is huge and probably the best that i ve had at this price range,spicy tuna roll,"[1, 4]",positive,314
+the yellowtail was particularly good as well,yellowtail,"[1, 2]",positive,315
+i have reservations about the all you can eat deal however the choices are fairly limited and you can probably order more food than you can eat for less than 18 by just going off the menu,all you can eat deal,"[5, 10]",negative,316
+i have reservations about the all you can eat deal however the choices are fairly limited and you can probably order more food than you can eat for less than 18 by just going off the menu,all you can eat deal,"[5, 10]",negative,317
+in any event this is a place i ll be sure to stop by again when i m in this part of town,place,"[6, 7]",positive,318
+big wong gets big ups for a fine establishment,big wong,"[0, 2]",positive,319
+they have it all great price food and service,food,"[6, 7]",positive,320
+they have it all great price food and service,service,"[8, 9]",positive,321
+the atmosphere is noisy and the waiters are literally walking around doing things as fast as they can,atmosphere,"[1, 2]",negative,322
+the atmosphere is noisy and the waiters are literally walking around doing things as fast as they can,waiters,"[6, 7]",positive,323
+and it all comes at a very reasonable price congee noodles and rice dishes are no more than 3 6 each,congee,"[9, 10]",positive,324
+and it all comes at a very reasonable price congee noodles and rice dishes are no more than 3 6 each,noodles,"[10, 11]",positive,325
+and it all comes at a very reasonable price congee noodles and rice dishes are no more than 3 6 each,rice dishes,"[12, 14]",positive,326
+the takeout is great too since they give high quality tupperware as well,takeout,"[1, 2]",positive,327
+this place is always very crowded and popular,place,"[1, 2]",positive,328
+enjoyed a very nice caesar salad while my wife had arugula and goat cheese both very tasty,caesar salad,"[4, 6]",positive,329
+enjoyed a very nice caesar salad while my wife had arugula and goat cheese both very tasty,arugula and goat cheese,"[10, 14]",positive,330
+we both opted for a pasta dish and they were served timely and fresh,pasta dish,"[5, 7]",positive,331
+we concluded with tiramisu chocolate cake both were delicious,tiramisu chocolate cake,"[3, 6]",positive,332
+i recently went to this restaurant with some co workers for lunch and had an amazing time,restaurant,"[5, 6]",positive,333
+the staff was accomodating the food was absolutely delicious and the place is lovely,staff,"[1, 2]",positive,334
+the staff was accomodating the food was absolutely delicious and the place is lovely,food,"[5, 6]",positive,335
+the staff was accomodating the food was absolutely delicious and the place is lovely,place,"[11, 12]",positive,336
+we even had a visit from the manager who wanted to make sure we were enjoying ourselves,manager,"[7, 8]",positive,337
+sometimes i get good food and ok service,food,"[4, 5]",positive,338
+sometimes i get good food and ok service,service,"[7, 8]",neutral,339
+sometimes i get bad food and bad service sometimes i get good good and bad service,food,"[4, 5]",negative,340
+sometimes i get bad food and bad service sometimes i get good good and bad service,service,"[7, 8]",negative,341
+sometimes i get bad food and bad service sometimes i get good good and bad service,service,"[7, 8]",negative,342
+sometimes i get bad food and bad service sometimes i get good good and bad service,good,"[11, 12]",positive,343
+the place is a bistro which means simple dishes and wine served efficiently in a bustling atmosphere,dishes,"[8, 9]",positive,344
+the place is a bistro which means simple dishes and wine served efficiently in a bustling atmosphere,wine,"[10, 11]",positive,345
+the place is a bistro which means simple dishes and wine served efficiently in a bustling atmosphere,atmosphere,"[16, 17]",positive,346
+and where does patis go wrong no where,patis,"[3, 4]",positive,347
+and evaluated on those terms pastis is simply wonderful,pastis,"[5, 6]",positive,348
+right off the l in brooklyn this is a nice cozy place with good pizza,pizza,"[14, 15]",positive,349
+right off the l in brooklyn this is a nice cozy place with good pizza,place,"[11, 12]",positive,350
+mine was a little burnt but still delicious with goat cheese and panchetta raddichio was kind of bitter though,raddichio,"[13, 14]",negative,351
+my friend got the mushroom pizza which tasted better,mushroom pizza,"[4, 6]",positive,352
+the sangria was pretty tasty and good on a hot muggy day,sangria,"[1, 2]",positive,353
+kind of a small place but i guess if they are not too busy might be able to fit a group or kids,place,"[4, 5]",neutral,354
+i started out with a bombay beer which was big enough for two,bombay beer,"[5, 7]",positive,355
+service was slow but the people were friendly,service,"[0, 1]",negative,356
+service was slow but the people were friendly,people,"[5, 6]",positive,357
+it s a nice place to relax and have conversation,place,"[4, 5]",positive,358
+the food is authentic italian delicious,food,"[1, 2]",positive,359
+pizza is terrific as is homemade pasta,pizza,"[0, 1]",positive,360
+pizza is terrific as is homemade pasta,homemade pasta,"[5, 7]",positive,361
+ambience is delightful service impeccable,ambience,"[0, 1]",positive,362
+ambience is delightful service impeccable,service,"[3, 4]",positive,363
+i m still mad that i had to pay for lousy food,food,"[11, 12]",negative,364
+the hanger steak was like rubber and the tuna was flavorless not to mention it tasted like it had just been thawed,hanger steak,"[1, 3]",negative,365
+the hanger steak was like rubber and the tuna was flavorless not to mention it tasted like it had just been thawed,tuna,"[8, 9]",negative,366
+service was also horrible and the ambience is not that great,service,"[0, 1]",negative,367
+service was also horrible and the ambience is not that great,ambience,"[6, 7]",negative,368
+i go and eat out at many different restaurants and this is one place you have go and try,place,"[13, 14]",positive,369
+this is my first time writing a review for a restaurant because the food and service was excellent,food,"[13, 14]",positive,370
+this is my first time writing a review for a restaurant because the food and service was excellent,service,"[15, 16]",positive,371
+the filet mignon dish was superb,filet mignon dish,"[1, 4]",positive,372
+it s a small cute restaurant,restaurant,"[5, 6]",positive,373
+i absolutely love this place,place,"[4, 5]",positive,374
+i like the ambience it s very dark and original,ambience,"[3, 4]",positive,375
+the sushi is amazing,sushi,"[1, 2]",positive,376
+very affordable and excellent ambient,ambient,"[4, 5]",positive,377
+we ordered some beef and noodle soup dishes from the thai section of the menu but nothing we got was thai,beef and noodle soup dishes,"[3, 8]",negative,378
+we won t go to this place again for a good meal,meal,"[11, 12]",negative,379
+however i think this place is a good hang out spot,place,"[4, 5]",positive,380
+my girlfriend and i stumbled onto this hopping place the other night and had a great time,place,"[8, 9]",positive,381
+the pizza and wine were excellent the service too but what really made this place was the backyard dining area,pizza,"[1, 2]",positive,382
+the pizza and wine were excellent the service too but what really made this place was the backyard dining area,wine,"[3, 4]",positive,383
+the pizza and wine were excellent the service too but what really made this place was the backyard dining area,service,"[7, 8]",positive,384
+the pizza and wine were excellent the service too but what really made this place was the backyard dining area,backyard dining area,"[17, 20]",positive,385
+it is one the nicest outdoor restaurants i have ever seen in ny i am from italy and this place rivals the ones in my country,outdoor restaurants,"[5, 7]",positive,386
+check this place out,place,"[2, 3]",positive,387
+first of all this place is not romantic as claimed by citysearch s editorial review,place,"[4, 5]",negative,388
+the tables are crammed way too close the menu is typical of any italian restaurant and the wine list is simply overpriced,tables,"[1, 2]",negative,389
+the tables are crammed way too close the menu is typical of any italian restaurant and the wine list is simply overpriced,menu,"[8, 9]",neutral,390
+the tables are crammed way too close the menu is typical of any italian restaurant and the wine list is simply overpriced,wine list,"[17, 19]",negative,391
+slightly above average wines start at 70 with only one selection listed at 30,wines,"[3, 4]",negative,392
+slightly above average wines start at 70 with only one selection listed at 30,wines,"[3, 4]",negative,393
+service is not what one would expect from a joint in this price category,service,"[0, 1]",negative,394
+somehow working the italian charm with constant mille grazie does not constitute proper service,service,"[13, 14]",negative,395
+to be completely fair the only redeeming factor was the food which was above average but couldn t make up for all the other deficiencies of teodora,food,"[10, 11]",positive,396
+to be completely fair the only redeeming factor was the food which was above average but couldn t make up for all the other deficiencies of teodora,teodora,"[26, 27]",negative,397
+not one of our meals was edible bland and or made with weird rosemary or orange flavoring,meals,"[4, 5]",negative,398
+not one of our meals was edible bland and or made with weird rosemary or orange flavoring,rosemary or orange flavoring,"[13, 17]",negative,399
+fish was overdone,fish,"[0, 1]",negative,400
+cute place nice wait staff but would never go there again,wait staff,"[3, 5]",positive,401
+cute place nice wait staff but would never go there again,place,"[1, 2]",positive,402
+cute place nice wait staff but would never go there again,place,"[1, 2]",negative,403
+someone else recommended the dessert we also left that,dessert,"[4, 5]",negative,404
+one of us actually liked the expresso that s it,expresso,"[6, 7]",positive,405
+skip this restaurant it s a big disappointment,restaurant,"[2, 3]",negative,406
+myagi is one of my favorite restaurants in the city the place the negative reviews describe sound like they were somewhere else,myagi,"[0, 1]",positive,407
+i ve never had bad service and the fish is fresh and delicious,service,"[5, 6]",positive,408
+i ve never had bad service and the fish is fresh and delicious,fish,"[8, 9]",positive,409
+their tuna tartar appetizer is to die for,tuna tartar appetizer,"[1, 4]",positive,410
+i come from a family of pizzeria owners and i m almost ashamed to say that the pizza in fornino s blows my families receipies away,pizza,"[17, 18]",positive,411
+the place is so cool and the service is prompt and curtious,service,"[7, 8]",positive,412
+the place is so cool and the service is prompt and curtious,place,"[1, 2]",positive,413
+i highly recommend to anyone to give this place a try,place,"[8, 9]",positive,414
+a restaurant that doesn t try to do anything except serve great food with great service in a pleasant atmosphere,food,"[12, 13]",positive,415
+a restaurant that doesn t try to do anything except serve great food with great service in a pleasant atmosphere,service,"[15, 16]",positive,416
+a restaurant that doesn t try to do anything except serve great food with great service in a pleasant atmosphere,atmosphere,"[19, 20]",positive,417
+no gimmicks here the food speaks for itself in its freshness and preparation,food,"[4, 5]",positive,418
+the dining room is quietly elegant with no music to shout over how refreshing,dining room,"[1, 3]",positive,419
+the service was impeccable and unobtrusive the staff knows what they are there to do to know their menu present your meal and attend to your needs,service,"[1, 2]",positive,420
+the service was impeccable and unobtrusive the staff knows what they are there to do to know their menu present your meal and attend to your needs,staff,"[7, 8]",positive,421
+looking around i saw a room full of new yorkers enjoying a real meal in a real restaurant not a clubhouse of the fabulous trying to be seen,meal,"[13, 14]",positive,422
+looking around i saw a room full of new yorkers enjoying a real meal in a real restaurant not a clubhouse of the fabulous trying to be seen,restaurant,"[17, 18]",positive,423
+the view is breathtaking the service is top notch the ambiance is wonderfull,view,"[1, 2]",positive,424
+the view is breathtaking the service is top notch the ambiance is wonderfull,service,"[5, 6]",positive,425
+the view is breathtaking the service is top notch the ambiance is wonderfull,ambiance,"[10, 11]",positive,426
+the staff offers impeccable service,staff,"[1, 2]",positive,427
+i had lobster bisque it has 2 oz of maine lobster in it,lobster bisque,"[2, 4]",positive,428
+my boyfriend had the new england chowder it was good but i think the award should go to the lobster bisque,new england chowder,"[4, 7]",positive,429
+my boyfriend had the new england chowder it was good but i think the award should go to the lobster bisque,lobster bisque,"[19, 21]",positive,430
+my boyfriend had prime rib it was good,prime rib,"[3, 5]",positive,431
+we didn t want a bottle of bubbly on a weekday so we each got little bottles of korbett it was just enough,bottles of korbett,"[16, 19]",positive,432
+my wife and i ate here earlier this week and have not stopped ranting and raving about the food,food,"[18, 19]",positive,433
+if you like spicy food get the chicken vindaloo,chicken vindaloo,"[7, 9]",positive,434
+go to volare for 1st class service and terrific food,service,"[6, 7]",positive,435
+go to volare for 1st class service and terrific food,food,"[9, 10]",positive,436
+the portions are large and the servers always surprise us with a different starter,portions,"[1, 2]",positive,437
+the wine list is excellent,wine list,"[1, 3]",positive,438
+the food is amazing especially if you get the chef s tasting menu and your favourite bottle or two of wine from an extensive selection of wines,food,"[1, 2]",positive,439
+the food is amazing especially if you get the chef s tasting menu and your favourite bottle or two of wine from an extensive selection of wines,selection of wines,"[24, 27]",positive,440
+the food is amazing especially if you get the chef s tasting menu and your favourite bottle or two of wine from an extensive selection of wines,chef s tasting menu,"[9, 13]",positive,441
+the place is small and intimate and you may feel a little crowded but the service is excellent and it s great for friends out a romantic date or a special occassion,service,"[15, 16]",positive,442
+the place is small and intimate and you may feel a little crowded but the service is excellent and it s great for friends out a romantic date or a special occassion,place,"[1, 2]",negative,443
+the place is small and intimate and you may feel a little crowded but the service is excellent and it s great for friends out a romantic date or a special occassion,place,"[1, 2]",positive,444
+the food can get pricey but the prixe fixe tasting menu is the greatest food for a good price and they cater the food to any food allergies or food you don t like,food,"[1, 2]",negative,445
+the food can get pricey but the prixe fixe tasting menu is the greatest food for a good price and they cater the food to any food allergies or food you don t like,prixe fixe tasting menu,"[7, 11]",positive,446
+the food can get pricey but the prixe fixe tasting menu is the greatest food for a good price and they cater the food to any food allergies or food you don t like,prixe fixe tasting menu,"[7, 11]",positive,447
+with the exception of our lemon salad that had so much pepper on it that our eyes started watering the food here was decent not great,food,"[20, 21]",neutral,448
+with the exception of our lemon salad that had so much pepper on it that our eyes started watering the food here was decent not great,lemon salad,"[5, 7]",negative,449
+the menu is very limited i think we counted 4 or 5 entrees,menu,"[1, 2]",negative,450
+we ordered the special grilled branzino that was so infused with bone it was difficult to eat,grilled branzino,"[4, 6]",negative,451
+the decor in this place is very diner ish and the kind of place you expect in the east village not romantic just simple small and sparse,decor,"[1, 2]",neutral,452
+problem is nothing at prune is particularly memorable,prune,"[4, 5]",negative,453
+this place is so much fun,place,"[1, 2]",positive,454
+our family never expected such incredible entertainment in a restaurant,entertainment,"[6, 7]",positive,455
+our food was great too,food,"[1, 2]",positive,456
+and really large portions,portions,"[3, 4]",positive,457
+the staff was the friendliest that have seen in new york,staff,"[1, 2]",positive,458
+if you want something really different than try jekyll and hyde,jekyll and hyde,"[8, 11]",positive,459
+the food was pretty tradional but it was hot and good with large portions,food,"[1, 2]",positive,460
+the food was pretty tradional but it was hot and good with large portions,portions,"[13, 14]",positive,461
+the place is a lot of fun,place,"[1, 2]",positive,462
+the characters really make for an enjoyable experience,characters,"[1, 2]",positive,463
+the food however is what one might expect,food,"[1, 2]",negative,464
+however i think jeckll and hydes t is one of those places that is fun to do once,jeckll and hydes,"[3, 6]",positive,465
+service was slow had to wait to order and get food although not crowded,service,"[0, 1]",negative,466
+drinks way over priced,drinks,"[0, 1]",negative,467
+food was good not great not worth the wait or another visit,food,"[0, 1]",neutral,468
+great pizza for lunch place,pizza,"[1, 2]",positive,469
+service was quick,service,"[0, 1]",positive,470
+the pizza was great,pizza,"[1, 2]",positive,471
+whenever you need a sushi fix mizu will be there with quality fish and great service,fish,"[12, 13]",positive,472
+whenever you need a sushi fix mizu will be there with quality fish and great service,service,"[15, 16]",positive,473
+delivery is fast too,delivery,"[0, 1]",positive,474
+great friendly service fast seating fast delivery excellent sushi,service,"[2, 3]",positive,475
+great friendly service fast seating fast delivery excellent sushi,seating,"[4, 5]",positive,476
+great friendly service fast seating fast delivery excellent sushi,delivery,"[6, 7]",positive,477
+great friendly service fast seating fast delivery excellent sushi,sushi,"[8, 9]",positive,478
+ess a bagel either by sty town or midtown is by far the best bagel in ny,bagel,"[2, 3]",positive,479
+the bagels always warm soft on the inside crispy on the outside and enormous in size,bagels,"[1, 2]",positive,480
+the bagels always warm soft on the inside crispy on the outside and enormous in size,bagels,"[1, 2]",positive,481
+they have a huge selection of different cream cheeses and all of their salads are great,salads,"[13, 14]",positive,482
+they have a huge selection of different cream cheeses and all of their salads are great,cream cheeses,"[7, 9]",positive,483
+the lox is always fresh too,lox,"[1, 2]",positive,484
+not impressed with the food,food,"[4, 5]",negative,485
+prices too high for this cramped and unappealing resturant,resturant,"[8, 9]",negative,486
+prices too high for this cramped and unappealing resturant,resturant,"[8, 9]",negative,487
+zero ambiance to boot,ambiance,"[1, 2]",negative,488
+i thought this place was totally overrated,place,"[3, 4]",negative,489
+the ambience was nice but service wasn t so great,ambience,"[1, 2]",positive,490
+the ambience was nice but service wasn t so great,service,"[5, 6]",negative,491
+this is the best shabu shabu restaurant in the try state area,shabu shabu restaurant,"[4, 7]",positive,492
+i have lived in japan for 7 years and the taste of the food and the feel of the restaurant is like being back in japan,food,"[13, 14]",positive,493
+i have lived in japan for 7 years and the taste of the food and the feel of the restaurant is like being back in japan,feel,"[16, 17]",positive,494
+thius is a must for anyone who loves shabu shabu,shabu shabu,"[8, 10]",positive,495
+the atmosphere is nothing special but it feels like a sushi establishment in tokyo,atmosphere,"[1, 2]",positive,496
+the owner and staff are all japanese as well and that adds to the entire ambiance,owner,"[1, 2]",positive,497
+the owner and staff are all japanese as well and that adds to the entire ambiance,staff,"[3, 4]",positive,498
+the owner and staff are all japanese as well and that adds to the entire ambiance,ambiance,"[15, 16]",positive,499
+despite a slightly limited menu everything prepared is done to perfection ultra fresh and a work of food art,menu,"[4, 5]",negative,500
+taxan delicious,taxan,"[0, 1]",positive,501
+the prices were cheap compared to the quality of service and food,service,"[9, 10]",positive,502
+the prices were cheap compared to the quality of service and food,food,"[11, 12]",positive,503
+the location and ambience is ok but the food is what makes up for it,location,"[1, 2]",neutral,504
+the location and ambience is ok but the food is what makes up for it,ambience,"[3, 4]",neutral,505
+the location and ambience is ok but the food is what makes up for it,food,"[8, 9]",positive,506
+try green curry with vegetables,green curry with vegetables,"[1, 5]",positive,507
+the quantity is also very good you will come out satisfied,quantity,"[1, 2]",positive,508
+the service is ok some of the people didn t get what they asked for,service,"[1, 2]",neutral,509
+i had the best ravioli ever,ravioli,"[4, 5]",positive,510
+the wine the service was very good too,wine,"[1, 2]",positive,511
+the wine the service was very good too,service,"[3, 4]",positive,512
+this quaint and romantic trattoria is at the top of my manhattan restaurant list,trattoria,"[4, 5]",positive,513
+this quaint and romantic trattoria is at the top of my manhattan restaurant list,trattoria,"[4, 5]",positive,514
+the food is delicious from the specials to the regular menu fare the dishes are never a disappointment,food,"[1, 2]",positive,515
+the food is delicious from the specials to the regular menu fare the dishes are never a disappointment,dishes,"[13, 14]",positive,516
+the food is delicious from the specials to the regular menu fare the dishes are never a disappointment,specials,"[6, 7]",positive,517
+the food is delicious from the specials to the regular menu fare the dishes are never a disappointment,regular menu fare,"[9, 12]",positive,518
+whether it s the parmesean porcini souffle or the lamb glazed with balsamic vinegar you will surely be transported to northern italy with one bite,parmesean porcini souffle,"[4, 7]",positive,519
+whether it s the parmesean porcini souffle or the lamb glazed with balsamic vinegar you will surely be transported to northern italy with one bite,lamb glazed with balsamic vinegar,"[9, 14]",positive,520
+although the tables may be closely situated the candle light food quality and service overcompensate,candle light,"[8, 10]",positive,521
+although the tables may be closely situated the candle light food quality and service overcompensate,food,"[10, 11]",positive,522
+although the tables may be closely situated the candle light food quality and service overcompensate,service,"[13, 14]",positive,523
+although the tables may be closely situated the candle light food quality and service overcompensate,tables,"[2, 3]",negative,524
+i have known about this secret for the last 13 years emilio the godfather has continued to serve food and wine for the gods at mortal prices,food,"[18, 19]",positive,525
+i have known about this secret for the last 13 years emilio the godfather has continued to serve food and wine for the gods at mortal prices,wine,"[20, 21]",positive,526
+i have known about this secret for the last 13 years emilio the godfather has continued to serve food and wine for the gods at mortal prices,food,"[18, 19]",positive,527
+i have known about this secret for the last 13 years emilio the godfather has continued to serve food and wine for the gods at mortal prices,wine,"[20, 21]",positive,528
+if you go try the marinara arrabiatta sauce the mozzarella en carozza is mmmmmmmm everything is just delicious,marinara arrabiatta sauce,"[5, 8]",positive,529
+if you go try the marinara arrabiatta sauce the mozzarella en carozza is mmmmmmmm everything is just delicious,mozzarella en carozza,"[9, 12]",positive,530
+check out the secret back room,back room,"[4, 6]",positive,531
+thank you emilio,emilio,"[2, 3]",positive,532
+i found the food service and value exceptional everytime i have been there,food,"[3, 4]",positive,533
+i found the food service and value exceptional everytime i have been there,service,"[4, 5]",positive,534
+the food was authentic,food,"[1, 2]",positive,535
+the service was excellent friendly and attentive,service,"[1, 2]",positive,536
+very good wine choices,wine choices,"[2, 4]",positive,537
+who has room for cheesesticks with the best pizza in nyc,pizza,"[8, 9]",positive,538
+get the pepperoni yum and a family style salad,pepperoni,"[2, 3]",positive,539
+get the pepperoni yum and a family style salad,family style salad,"[6, 9]",positive,540
+great staff,staff,"[1, 2]",positive,541
+always great service,service,"[2, 3]",positive,542
+the food is good i can t lie,food,"[1, 2]",positive,543
+but the staff was so horrible to us,staff,"[2, 3]",negative,544
+the hostess and the waitress were incredibly rude and did everything they could to rush us out,hostess,"[1, 2]",negative,545
+the hostess and the waitress were incredibly rude and did everything they could to rush us out,waitress,"[4, 5]",negative,546
+we were planning to get dessert but the waitress basically through the bill at us before we had a chance to order,waitress,"[8, 9]",negative,547
+this place is pricey and yes the food is worth it but the service makes you feel like you should be paying a quater of the price,place,"[1, 2]",negative,548
+this place is pricey and yes the food is worth it but the service makes you feel like you should be paying a quater of the price,food,"[7, 8]",positive,549
+this place is pricey and yes the food is worth it but the service makes you feel like you should be paying a quater of the price,service,"[13, 14]",negative,550
+amma is nothing special,amma,"[0, 1]",neutral,551
+i ate here a week ago and found most dishes average at best and too expensive,dishes,"[9, 10]",negative,552
+i ate here a week ago and found most dishes average at best and too expensive,dishes,"[9, 10]",negative,553
+don t dine at tamarind for the vegetarian dishes they are simply not up to par with the non veg selections,vegetarian dishes,"[7, 9]",negative,554
+don t dine at tamarind for the vegetarian dishes they are simply not up to par with the non veg selections,non veg selections,"[18, 21]",positive,555
+decor is nice though service can be spotty,decor,"[0, 1]",positive,556
+decor is nice though service can be spotty,service,"[4, 5]",negative,557
+this place is always packed,place,"[1, 2]",neutral,558
+most importantly food is excellent,food,"[2, 3]",positive,559
+try the sea bass,sea bass,"[2, 4]",positive,560
+first of all dal bukhara rocks,dal bukhara,"[3, 5]",positive,561
+i am happy i did the food was awsome,food,"[6, 7]",positive,562
+and yes dal bukhara is so dam good and so are all the kababs,kababs,"[13, 14]",positive,563
+and yes dal bukhara is so dam good and so are all the kababs,dal bukhara,"[2, 4]",positive,564
+haru on park s is simply disgusting,haru on park s,"[0, 4]",negative,565
+the fish was not fresh and the rice tasted old and stale,fish,"[1, 2]",negative,566
+the fish was not fresh and the rice tasted old and stale,rice,"[7, 8]",negative,567
+quite frankly this is some of the worst sushi i have ever tried,sushi,"[8, 9]",negative,568
+honestly the worst sushi my husband and i had in our entire lives,sushi,"[3, 4]",negative,569
+not sure why this restaurant would be rated that highly,restaurant,"[4, 5]",negative,570
+the all u can eat sushi is definitely in very poor quality,all u can eat sushi,"[1, 6]",negative,571
+limited menu no so fresh ingredients thinly sliced fish fall apart rice,menu,"[1, 2]",negative,572
+limited menu no so fresh ingredients thinly sliced fish fall apart rice,ingredients,"[5, 6]",negative,573
+limited menu no so fresh ingredients thinly sliced fish fall apart rice,fish,"[8, 9]",negative,574
+limited menu no so fresh ingredients thinly sliced fish fall apart rice,rice,"[11, 12]",negative,575
+the only things u could really taste are the very salty soy sauce even its low sodium the vinegar soaked rice and the scallion on top of the fish,soy sauce,"[11, 13]",negative,576
+the only things u could really taste are the very salty soy sauce even its low sodium the vinegar soaked rice and the scallion on top of the fish,rice,"[20, 21]",negative,577
+the waitstaffs are nice though,waitstaffs,"[1, 2]",positive,578
+i have been to roth s twice and both times were very disappointing,roth s,"[4, 6]",negative,579
+both times i was extremely dissappointed by the service which was boarderline rude,service,"[8, 9]",negative,580
+the dinner was ok nothing i would have again,dinner,"[1, 2]",negative,581
+i had their eggs benedict for brunch which were the worst in my entire life i tried removing the hollondaise sauce completely that was how failed it was,eggs benedict,"[3, 5]",negative,582
+with the theater 2 blocks away we had a delicious meal in a beautiful room,meal,"[10, 11]",positive,583
+with the theater 2 blocks away we had a delicious meal in a beautiful room,room,"[14, 15]",positive,584
+the service was attentive,service,"[1, 2]",positive,585
+planet thai is great,planet thai,"[0, 2]",positive,586
+we love the food drinks and atmosphere,food,"[3, 4]",positive,587
+we love the food drinks and atmosphere,drinks,"[4, 5]",positive,588
+we love the food drinks and atmosphere,atmosphere,"[6, 7]",positive,589
+the svc can be a bit rude at times esp if you have big group but overall the restaurant is a must,svc,"[1, 2]",negative,590
+the svc can be a bit rude at times esp if you have big group but overall the restaurant is a must,restaurant,"[18, 19]",positive,591
+try the pad thai it s fabulous and their prices are so cheap,pad thai,"[2, 4]",positive,592
+just because it s cheap does not mean the portions are small or the food is nasty it is great,portions,"[9, 10]",positive,593
+just because it s cheap does not mean the portions are small or the food is nasty it is great,food,"[14, 15]",positive,594
+also the sandwiches nearing 7 didn t come with anything like chips or a side,sandwiches,"[2, 3]",negative,595
+also the sandwiches nearing 7 didn t come with anything like chips or a side,sandwiches,"[2, 3]",negative,596
+eating in the atmosphere saves it but at your desk it s a very disappointing experience,atmosphere,"[3, 4]",positive,597
+chennai garden is my favorite indian restaurant in the city,chennai garden,"[0, 2]",positive,598
+they have authentic indian at amazin prices,indian,"[3, 4]",positive,599
+they have authentic indian at amazin prices,indian,"[3, 4]",positive,600
+this restaurant is vegetarian there are no meat dishes whatsoever,meat dishes,"[7, 9]",negative,601
+the seats are uncomfortable if you are sitting against the wall on wooden benches,seats,"[1, 2]",negative,602
+it s a rather cramped and busy restaurant and it closes early,restaurant,"[7, 8]",negative,603
+it s a rather cramped and busy restaurant and it closes early,restaurant,"[7, 8]",negative,604
+patroon features a nice cigar bar and has great staff,cigar bar,"[4, 6]",positive,605
+patroon features a nice cigar bar and has great staff,staff,"[9, 10]",positive,606
+the food is tasty and portion sizes are appropriate,food,"[1, 2]",positive,607
+the food is tasty and portion sizes are appropriate,portion sizes,"[5, 7]",positive,608
+this is a nice restaurant if you are looking for a good place to host an intimate dinner meeting with business associates,restaurant,"[4, 5]",positive,609
+not a great place for family or general dining,place,"[3, 4]",negative,610
+lloovve this place,place,"[2, 3]",positive,611
+food is excellent,food,"[0, 1]",positive,612
+fish is so very fresh,fish,"[0, 1]",positive,613
+waitstaff are very friendly,waitstaff,"[0, 1]",positive,614
+love yuka,yuka,"[1, 2]",positive,615
+mermaid inn is an overall good restaurant with really good seafood,seafood,"[10, 11]",positive,616
+mermaid inn is an overall good restaurant with really good seafood,mermaid inn,"[0, 2]",positive,617
+the menu is limited but almost all of the dishes are excellent,menu,"[1, 2]",negative,618
+the menu is limited but almost all of the dishes are excellent,dishes,"[9, 10]",positive,619
+the lobster sandwich is good and the spaghetti with scallops and shrimp is great,lobster sandwich,"[1, 3]",positive,620
+the lobster sandwich is good and the spaghetti with scallops and shrimp is great,spaghetti with scallops and shrimp,"[7, 12]",positive,621
+the service is good and ambience is good for a date or group outing,service,"[1, 2]",positive,622
+the service is good and ambience is good for a date or group outing,ambience,"[5, 6]",positive,623
+the only fallback on this restaurant is the prices,restaurant,"[5, 6]",negative,624
+even though its good seafood the prices are too high,seafood,"[4, 5]",positive,625
+the lobster sandwich is 24 and although it was good it was not nearly enough to warrant that price,lobster sandwich,"[1, 3]",positive,626
+the lobster sandwich is 24 and although it was good it was not nearly enough to warrant that price,lobster sandwich,"[1, 3]",negative,627
+the food was delicious i had a halibut special my husband had steak and the service was top notch,food,"[1, 2]",positive,628
+the food was delicious i had a halibut special my husband had steak and the service was top notch,halibut special,"[7, 9]",positive,629
+the food was delicious i had a halibut special my husband had steak and the service was top notch,steak,"[12, 13]",positive,630
+the food was delicious i had a halibut special my husband had steak and the service was top notch,service,"[15, 16]",positive,631
+when my dessert came there was a candle in it not because anyone asked for one but because the waiter must have seen me opening my birthday card and gift and said he knew it was a special occassion of some sort,waiter,"[19, 20]",positive,632
+truly the mark of an attentive waiter,waiter,"[6, 7]",positive,633
+i highly recommend the restaurant based on our experience last night,restaurant,"[4, 5]",positive,634
+we ate at this thai place following the reviews but very unhappy with the foods,foods,"[14, 15]",negative,635
+we thought that this place is using too much of msg cooking in the foods,foods,"[14, 15]",negative,636
+i recommend the jelly fish drunken chicken and the soupy dumplings certainly the stir fry blue crab,jelly fish,"[3, 5]",positive,637
+i recommend the jelly fish drunken chicken and the soupy dumplings certainly the stir fry blue crab,drunken chicken,"[5, 7]",positive,638
+i recommend the jelly fish drunken chicken and the soupy dumplings certainly the stir fry blue crab,soupy dumplings,"[9, 11]",positive,639
+i recommend the jelly fish drunken chicken and the soupy dumplings certainly the stir fry blue crab,stir fry blue crab,"[13, 17]",positive,640
+the food is so cheap and the waiters are nice,food,"[1, 2]",positive,641
+the food is so cheap and the waiters are nice,waiters,"[7, 8]",positive,642
+have frequented ino for several years and the food remains excellent,food,"[8, 9]",positive,643
+cheese plate is a varied delight and great bargain at 10,cheese plate,"[0, 2]",positive,644
+cheese plate is a varied delight and great bargain at 10,cheese plate,"[0, 2]",positive,645
+cheese plate is a varied delight and great bargain at 10,cheese plate,"[0, 2]",positive,646
+the large selection of bruschettas paninis tramezzinis keep the palate from stagnating,bruschettas,"[4, 5]",positive,647
+the large selection of bruschettas paninis tramezzinis keep the palate from stagnating,paninis,"[5, 6]",positive,648
+the large selection of bruschettas paninis tramezzinis keep the palate from stagnating,tramezzinis,"[6, 7]",positive,649
+the asparagus truffle oil parmesan bruschetta is a winner,asparagus truffle oil parmesan bruschetta,"[1, 6]",positive,650
+wine list is extensive without being over priced,wine list,"[0, 2]",positive,651
+wine list is extensive without being over priced,wine list,"[0, 2]",positive,652
+be sure to try the seasonal and always delicious specials,specials,"[9, 10]",positive,653
+i loved this place,place,"[3, 4]",positive,654
+i almost hesititate to write a review because the atmosphere was so great and i would hate for it too become to crowded,atmosphere,"[9, 10]",positive,655
+the food was very good a great deal and the place its self was great,food,"[1, 2]",positive,656
+the food was very good a great deal and the place its self was great,food,"[1, 2]",positive,657
+the food was very good a great deal and the place its self was great,place,"[10, 11]",positive,658
+the wait staff is very freindly they make it feel like you re eating in a freindly little european town,wait staff,"[1, 3]",positive,659
+i like cafe noir dont get me wrong it is jsut that the people who work there are evil and incompetent,people,"[13, 14]",negative,660
+i like cafe noir dont get me wrong it is jsut that the people who work there are evil and incompetent,cafe noir,"[2, 4]",positive,661
+the service was terrible we had to wait for everything and ask several of different people for the same thing before we were allowed to be served,service,"[1, 2]",negative,662
+the waitress seems to be more concerned of looking good than actually waitressing,waitress,"[1, 2]",negative,663
+after dinner the manager grabbed my boyfriend asked him where are you from maybe you dont know how things work in america and in the end stormed away almost teareyed yelling that tips are the only thing they survive on,manager,"[3, 4]",negative,664
+we did tip i guess the model waitress just wanted more and complained to the manager,waitress,"[7, 8]",negative,665
+the whole set up is truly unprofessional and i wish cafe noir would get some good staff because despite the current one this is a great place,staff,"[16, 17]",negative,666
+the whole set up is truly unprofessional and i wish cafe noir would get some good staff because despite the current one this is a great place,cafe noir,"[10, 12]",positive,667
+pizza here is consistently good,pizza,"[0, 1]",positive,668
+salads are a delicious way to begin the meal,salads,"[0, 1]",positive,669
+you should pass on the calamari,calamari,"[5, 6]",negative,670
+decor is charming,decor,"[0, 1]",positive,671
+service is average,service,"[0, 1]",neutral,672
+what a great place,place,"[3, 4]",positive,673
+the ambience was so fun and the prices were great on top of the fact that the food was really tasty,ambience,"[1, 2]",positive,674
+the ambience was so fun and the prices were great on top of the fact that the food was really tasty,food,"[17, 18]",positive,675
+i would definitely recommend sea if you like thai cuisine,thai cuisine,"[8, 10]",positive,676
+i was here a few weeks back and we had the worst customer service experience at a restaurant ever,customer service,"[12, 14]",negative,677
+a gentleman maybe the manager came to our table and without so much as a smile or greeting asked for our order,gentleman,"[1, 2]",negative,678
+i absolutely loved this place,place,"[4, 5]",positive,679
+excellent atmosphere delicious dishes good and friendly service,atmosphere,"[1, 2]",positive,680
+excellent atmosphere delicious dishes good and friendly service,dishes,"[3, 4]",positive,681
+excellent atmosphere delicious dishes good and friendly service,service,"[7, 8]",positive,682
+the wine list is also really nice,wine list,"[1, 3]",positive,683
+everything was wonderful food drinks staff mileau,food,"[3, 4]",positive,684
+everything was wonderful food drinks staff mileau,drinks,"[4, 5]",positive,685
+everything was wonderful food drinks staff mileau,staff,"[5, 6]",positive,686
+everything was wonderful food drinks staff mileau,mileau,"[6, 7]",positive,687
+i would highly recommend this place,place,"[5, 6]",positive,688
+i have been to casimir over 5 times and i have always had a great time there,casimir,"[4, 5]",positive,689
+the food is great and reasonably priced,food,"[1, 2]",positive,690
+the food is great and reasonably priced,food,"[1, 2]",positive,691
+i have tried to make reservations but both times the hostess didn t have my name,hostess,"[10, 11]",negative,692
+if the weather is nice try to snag an outside table,outside table,"[9, 11]",positive,693
+the staff has been nice but they seemed really stressed and the unisex bathroom needs to be cleaned more often,staff,"[1, 2]",positive,694
+the staff has been nice but they seemed really stressed and the unisex bathroom needs to be cleaned more often,unisex bathroom,"[12, 14]",negative,695
+from the spectacular caviar to the hospitable waitstaff i felt like royalty and enjoyed every second of it,caviar,"[3, 4]",positive,696
+from the spectacular caviar to the hospitable waitstaff i felt like royalty and enjoyed every second of it,waitstaff,"[7, 8]",positive,697
+considering we were the last patrons there and it was after the closing time the waitstaff did not rush us at all and made us feel comfortable and relaxed,waitstaff,"[15, 16]",positive,698
+i highly recommend caviar russe to anyone who wants delicious top grade caviar and fantastic service,caviar,"[3, 4]",positive,699
+i highly recommend caviar russe to anyone who wants delicious top grade caviar and fantastic service,service,"[15, 16]",positive,700
+nice family owned traditional restaurant,restaurant,"[4, 5]",positive,701
+fresh ingredients and everything is made to order,ingredients,"[1, 2]",positive,702
+friendly staff that actually lets you enjoy your meal and the company you re with,staff,"[1, 2]",positive,703
+i found the food to be outstanding particulary the salmon dish i had,food,"[3, 4]",positive,704
+i found the food to be outstanding particulary the salmon dish i had,salmon dish,"[9, 11]",positive,705
+i also ordered the change mojito which was out of this world,change mojito,"[4, 6]",positive,706
+my friends settled for rice dishes but we came back the following day to try the dim sum which was good not outstanding but good,dim sum,"[16, 18]",neutral,707
+we ate out in the back patio which is worth it as it s cool and the music is hear well there,back patio,"[5, 7]",positive,708
+we ate out in the back patio which is worth it as it s cool and the music is hear well there,music,"[17, 18]",positive,709
+overall excellent restaurant,restaurant,"[2, 3]",positive,710
+the food was good,food,"[1, 2]",positive,711
+the place was nice and calm,place,"[1, 2]",positive,712
+but the service was a bit slow,service,"[2, 3]",negative,713
+the buffet had a nice selection,buffet,"[1, 2]",positive,714
+the food was average or above including some surprising tasty dishes,food,"[1, 2]",positive,715
+the food was average or above including some surprising tasty dishes,dishes,"[10, 11]",positive,716
+service was also very good,service,"[0, 1]",positive,717
+i got an excellent piece of cheesecake and we had several other nice pastries,cheesecake,"[6, 7]",positive,718
+i got an excellent piece of cheesecake and we had several other nice pastries,pastries,"[13, 14]",positive,719
+i would recommend roxy s for that but not for their food,food,"[11, 12]",negative,720
+my son and his girlfriend both wanted cheeseburgers and they were huge,cheeseburgers,"[7, 8]",neutral,721
+consequently their burgers fell apart in their hands and made such a mess that they did nt feel like finishing them,burgers,"[2, 3]",negative,722
+i had a huge pastrami sandwich on a roll,pastrami sandwich on a roll,"[4, 9]",neutral,723
+this place is really trendi but they have forgotten about the most important part of a restaurant the food,food,"[18, 19]",negative,724
+this place is really trendi but they have forgotten about the most important part of a restaurant the food,place,"[1, 2]",positive,725
+the last two times i ordered from here my food was soo spicy that i could barely eat it and the spice took away from the flavor of the dish,food,"[9, 10]",negative,726
+the last two times i ordered from here my food was soo spicy that i could barely eat it and the spice took away from the flavor of the dish,spice,"[21, 22]",negative,727
+and the tom kha soup was pathetic,tom kha soup,"[2, 5]",negative,728
+if you want good authentic thai this place is not the place to go,thai,"[5, 6]",negative,729
+we went here for lunch a couple of weeks ago on a saturday and i was thoroughly impressed with the food,food,"[20, 21]",positive,730
+the pesto pizza was excellent thin crust pizza with a nice amount of spicy italian cheese that i d never heard of before,pesto pizza,"[1, 3]",positive,731
+the pesto pizza was excellent thin crust pizza with a nice amount of spicy italian cheese that i d never heard of before,spicy italian cheese,"[13, 16]",positive,732
+the back garden sitting area is very pleasant where you can see their personal herb garden,back garden sitting area,"[1, 5]",positive,733
+we had the lobster sandwich and it was fantastic,lobster sandwich,"[3, 5]",positive,734
+my husband said he could ve eaten several more the portion was fine for me he even exclaimed that the french fries were the best he has had,portion,"[10, 11]",positive,735
+my husband said he could ve eaten several more the portion was fine for me he even exclaimed that the french fries were the best he has had,french fries,"[20, 22]",positive,736
+we had the scallops as an appetizer and they were delicious and the sauce was wonderful,scallops,"[3, 4]",positive,737
+we had the scallops as an appetizer and they were delicious and the sauce was wonderful,sauce,"[13, 14]",positive,738
+we waited at the bar and had martinis that were just right,martinis,"[7, 8]",positive,739
+love the food,food,"[2, 3]",positive,740
+it s the only place you can get yummy authentic japanese comfort food,japanese comfort food,"[10, 13]",positive,741
+i ve lived in ny for 5 years and this place has it all,place,"[10, 11]",positive,742
+great food good size menu great service and an unpretensious setting,food,"[1, 2]",positive,743
+great food good size menu great service and an unpretensious setting,menu,"[4, 5]",positive,744
+great food good size menu great service and an unpretensious setting,service,"[6, 7]",positive,745
+great food good size menu great service and an unpretensious setting,setting,"[10, 11]",positive,746
+the dishes offered were unique very tasty and fresh from the lamb sausages sardines with biscuits large whole shrimp to the amazing pistachio ice cream the best and freshest i ve ever had,dishes,"[1, 2]",positive,747
+the dishes offered were unique very tasty and fresh from the lamb sausages sardines with biscuits large whole shrimp to the amazing pistachio ice cream the best and freshest i ve ever had,lamb sausages,"[11, 13]",positive,748
+the dishes offered were unique very tasty and fresh from the lamb sausages sardines with biscuits large whole shrimp to the amazing pistachio ice cream the best and freshest i ve ever had,sardines with biscuits,"[13, 16]",positive,749
+the dishes offered were unique very tasty and fresh from the lamb sausages sardines with biscuits large whole shrimp to the amazing pistachio ice cream the best and freshest i ve ever had,large whole shrimp,"[16, 19]",positive,750
+the dishes offered were unique very tasty and fresh from the lamb sausages sardines with biscuits large whole shrimp to the amazing pistachio ice cream the best and freshest i ve ever had,pistachio ice cream,"[22, 25]",positive,751
+i m glad i was introduced to this place and this is a rare gem in ny,place,"[8, 9]",positive,752
+the freshest best variety and the fastest delivery,delivery,"[7, 8]",positive,753
+the service was excellent and the food was delicious,service,"[1, 2]",positive,754
+the service was excellent and the food was delicious,food,"[6, 7]",positive,755
+we are very particular about sushi and were both please with every choice which included ceviche mix special crab dumplings assorted sashimi sushi and rolls two types of sake and the banana tempura,sushi,"[5, 6]",positive,756
+we are very particular about sushi and were both please with every choice which included ceviche mix special crab dumplings assorted sashimi sushi and rolls two types of sake and the banana tempura,ceviche mix special,"[15, 18]",positive,757
+we are very particular about sushi and were both please with every choice which included ceviche mix special crab dumplings assorted sashimi sushi and rolls two types of sake and the banana tempura,crab dumplings,"[18, 20]",positive,758
+we are very particular about sushi and were both please with every choice which included ceviche mix special crab dumplings assorted sashimi sushi and rolls two types of sake and the banana tempura,assorted sashimi,"[20, 22]",positive,759
+we are very particular about sushi and were both please with every choice which included ceviche mix special crab dumplings assorted sashimi sushi and rolls two types of sake and the banana tempura,sushi,"[5, 6]",positive,760
+we are very particular about sushi and were both please with every choice which included ceviche mix special crab dumplings assorted sashimi sushi and rolls two types of sake and the banana tempura,rolls,"[24, 25]",positive,761
+we are very particular about sushi and were both please with every choice which included ceviche mix special crab dumplings assorted sashimi sushi and rolls two types of sake and the banana tempura,two types of sake,"[25, 29]",positive,762
+we are very particular about sushi and were both please with every choice which included ceviche mix special crab dumplings assorted sashimi sushi and rolls two types of sake and the banana tempura,banana tempura,"[31, 33]",positive,763
+definitely a great spot for a nice occasion or date,spot,"[3, 4]",positive,764
+average to good thai food but terrible delivery,thai food,"[3, 5]",positive,765
+average to good thai food but terrible delivery,delivery,"[7, 8]",negative,766
+a thai restaurant out of rice during dinner,thai restaurant,"[1, 3]",negative,767
+the food arrived 20 minutes after i called cold and soggy,food,"[1, 2]",negative,768
+this is a wonderful place on all stand points especially value ofr money,place,"[4, 5]",positive,769
+this is a wonderful place on all stand points especially value ofr money,place,"[4, 5]",positive,770
+an excellent service,service,"[2, 3]",positive,771
+we were greeted promptly by the waiter who was very nice and cordial,waiter,"[6, 7]",positive,772
+she was very helpful in suggesting us drinks and helped us in ordering a lot of good dishes since we knew nothing about indian food,dishes,"[17, 18]",positive,773
+the food looked very appetizing and delicious since it came on a variety of fancy plates,food,"[1, 2]",positive,774
+we ended our great experience by having gulab jamun dessert recommended by the waiter,gulab jamun dessert,"[7, 10]",positive,775
+i thanked my friend who recommended me this restaurant and will certainly recommend it to others,restaurant,"[8, 9]",positive,776
+service here was great food was fantastic,service,"[0, 1]",positive,777
+service here was great food was fantastic,food,"[4, 5]",positive,778
+guacamole shrimp appetizer was really great we both had the filet very good didn t much like the frites that came with but the filet was so good neither of us cared,guacamole shrimp appetizer,"[0, 3]",positive,779
+guacamole shrimp appetizer was really great we both had the filet very good didn t much like the frites that came with but the filet was so good neither of us cared,filet,"[10, 11]",positive,780
+guacamole shrimp appetizer was really great we both had the filet very good didn t much like the frites that came with but the filet was so good neither of us cared,frites,"[18, 19]",negative,781
+you cannot go wrong with this place,place,"[6, 7]",positive,782
+the food is outstanding and the service is quick friendly and very professional,food,"[1, 2]",positive,783
+the food is outstanding and the service is quick friendly and very professional,service,"[6, 7]",positive,784
+always a nice crowd but never loud,crowd,"[3, 4]",positive,785
+i am reluctant to write because i would not want my jem of a pizza place to become overcrowded,pizza place,"[14, 16]",positive,786
+by far the best pizza in manhattan,pizza,"[4, 5]",positive,787
+the crust is thin the ingredients are fresh and the staff is friendly,crust,"[1, 2]",positive,788
+the crust is thin the ingredients are fresh and the staff is friendly,staff,"[10, 11]",positive,789
+the crust is thin the ingredients are fresh and the staff is friendly,ingredients,"[5, 6]",positive,790
+the menu has so many fish items and oysters,menu,"[1, 2]",positive,791
+the fish was really really fresh,fish,"[1, 2]",positive,792
+we all agreed that mare is one of the best seafood restaurants in new york,mare,"[4, 5]",positive,793
+i stumbled upon this great pizzeria as i explored my new neighborhood,pizzeria,"[5, 6]",positive,794
+all of the pizzas are terrific and the price is even better,pizzas,"[3, 4]",positive,795
+i highly recommend the sophia pizza,sophia pizza,"[4, 6]",positive,796
+the food was mediocre at best but it was the horrible service that made me vow never to go back,food,"[1, 2]",negative,797
+the food was mediocre at best but it was the horrible service that made me vow never to go back,service,"[11, 12]",negative,798
+immediately after we paid the waiter took the money and said okay you guys are outta here,waiter,"[5, 6]",negative,799
+for the people who want great food plus great service roxy is a place to avoid,food,"[6, 7]",negative,800
+for the people who want great food plus great service roxy is a place to avoid,service,"[9, 10]",negative,801
+the first time the sushi was outstanding the second time it was a little bland,sushi,"[4, 5]",positive,802
+the first time the sushi was outstanding the second time it was a little bland,sushi,"[4, 5]",negative,803
+the blond wood decor is very soothing the premium sake is excellent and the service is great,blond wood decor,"[1, 4]",positive,804
+the blond wood decor is very soothing the premium sake is excellent and the service is great,premium sake,"[8, 10]",positive,805
+the blond wood decor is very soothing the premium sake is excellent and the service is great,service,"[14, 15]",positive,806
+mizu is the japenese find in grammercy,mizu,"[0, 1]",positive,807
+while their kitchen food is delicious their sushi is out of this world,kitchen food,"[2, 4]",positive,808
+while their kitchen food is delicious their sushi is out of this world,sushi,"[7, 8]",positive,809
+mizu is home to creative and unique rolls not to found anywhere else,rolls,"[7, 8]",positive,810
+not only is the cuisine the best around the service has always been attentive and charming,cuisine,"[4, 5]",positive,811
+not only is the cuisine the best around the service has always been attentive and charming,service,"[9, 10]",positive,812
+warning you may find it difficult to dine at other japanese restaurants after a visit to mizu,mizu,"[16, 17]",positive,813
+thalia is a beautiful restaurant with beautiful people serving you but the food doesn t quite match up,people,"[7, 8]",positive,814
+thalia is a beautiful restaurant with beautiful people serving you but the food doesn t quite match up,food,"[12, 13]",negative,815
+thalia is a beautiful restaurant with beautiful people serving you but the food doesn t quite match up,thalia,"[0, 1]",positive,816
+i ordered the smoked salmon and roe appetizer and it was off flavor,smoked salmon and roe appetizer,"[3, 8]",negative,817
+the entree was bland and small dessert was not inspired,entree,"[1, 2]",negative,818
+the entree was bland and small dessert was not inspired,entree,"[1, 2]",negative,819
+the entree was bland and small dessert was not inspired,dessert,"[6, 7]",negative,820
+i expected quite a bit more from such an expensive menu,menu,"[10, 11]",negative,821
+i expected quite a bit more from such an expensive menu,menu,"[10, 11]",negative,822
+the view is spectacular and the food is great,view,"[1, 2]",positive,823
+the view is spectacular and the food is great,food,"[6, 7]",positive,824
+wonderful strawberry daiquiries as well,strawberry daiquiries,"[1, 3]",positive,825
+authentic taiwanese food that s cheap what more could you ask for,taiwanese food,"[1, 3]",positive,826
+authentic taiwanese food that s cheap what more could you ask for,taiwanese food,"[1, 3]",positive,827
+the cold appetizer dishes taste like the way i remember them to taste when i was growing up in taiwan,cold appetizer dishes,"[1, 4]",positive,828
+delicious simple food in nice outdoor atmosphere,food,"[2, 3]",positive,829
+delicious simple food in nice outdoor atmosphere,food,"[2, 3]",positive,830
+delicious simple food in nice outdoor atmosphere,outdoor atmosphere,"[5, 7]",positive,831
+kind attentive wait staff,wait staff,"[2, 4]",positive,832
+i really like both the scallops and the mahi mahi on saffron risotto yum,scallops,"[5, 6]",positive,833
+i really like both the scallops and the mahi mahi on saffron risotto yum,mahi mahi on saffron risotto,"[8, 13]",positive,834
+my friend devoured her chicken and mashed potatos,chicken and mashed potatos,"[4, 8]",positive,835
+delicious crab cakes too,crab cakes,"[1, 3]",positive,836
+even if the food wasn t this good the garden is a great place to sit outside and relax,garden,"[9, 10]",positive,837
+even if the food wasn t this good the garden is a great place to sit outside and relax,food,"[3, 4]",positive,838
+great neighborhood joint,joint,"[2, 3]",positive,839
+this is a nice pizza place with good selection of thin crust pizza including the basil slice,selection of thin crust pizza,"[8, 13]",positive,840
+this is a nice pizza place with good selection of thin crust pizza including the basil slice,selection of thin crust pizza,"[8, 13]",positive,841
+this is a nice pizza place with good selection of thin crust pizza including the basil slice,pizza place,"[4, 6]",positive,842
+this is a nice pizza place with good selection of thin crust pizza including the basil slice,basil slice,"[15, 17]",positive,843
+their calzones are horrific bad vomit inducing yuck,calzones,"[1, 2]",negative,844
+the counter service is bad,counter service,"[1, 3]",negative,845
+no pizza 33 for me,pizza 33,"[1, 3]",negative,846
+the dosas are skimpy unattractive and drip with grease and personally i d drink popcorn topping before i d eat another one of these,dosas,"[1, 2]",negative,847
+the dosas are skimpy unattractive and drip with grease and personally i d drink popcorn topping before i d eat another one of these,dosas,"[1, 2]",negative,848
+the sandwiches are dry tasteless and way overpriced,sandwiches,"[1, 2]",negative,849
+the sandwiches are dry tasteless and way overpriced,sandwiches,"[1, 2]",negative,850
+calling the place hampton chutney co does warn you that these folks offer more style than substance but in this unattractive room with unhelpful clerks there was a dearth of the former too,place,"[2, 3]",negative,851
+calling the place hampton chutney co does warn you that these folks offer more style than substance but in this unattractive room with unhelpful clerks there was a dearth of the former too,room,"[21, 22]",negative,852
+calling the place hampton chutney co does warn you that these folks offer more style than substance but in this unattractive room with unhelpful clerks there was a dearth of the former too,clerks,"[24, 25]",negative,853
+seriously this place kicks ass,place,"[2, 3]",positive,854
+the atmosphere is unheralded the service impecible and the food magnificant,atmosphere,"[1, 2]",positive,855
+the atmosphere is unheralded the service impecible and the food magnificant,service,"[5, 6]",positive,856
+the atmosphere is unheralded the service impecible and the food magnificant,food,"[9, 10]",positive,857
+best italian food i ever had and being italian that means alot,italian food,"[1, 3]",positive,858
+this is such a lovely peaceful place to eat outside,place,"[6, 7]",positive,859
+the restaurant looks out over beautiful green lawns to the hudson river and the statue of liberty,restaurant,"[1, 2]",positive,860
+the food is good especially their more basic dishes and the drinks are delicious,food,"[1, 2]",positive,861
+the food is good especially their more basic dishes and the drinks are delicious,basic dishes,"[7, 9]",positive,862
+the food is good especially their more basic dishes and the drinks are delicious,drinks,"[11, 12]",positive,863
+this is a great place to take out of towners and perfect for watching the sunset,place,"[4, 5]",positive,864
+great sushi experience,sushi,"[1, 2]",positive,865
+unique apppetizers,apppetizers,"[1, 2]",positive,866
+try sushimi cucumber roll,sushimi cucumber roll,"[1, 4]",positive,867
+good spreads great beverage selections and bagels really tasty,spreads,"[1, 2]",positive,868
+good spreads great beverage selections and bagels really tasty,beverage selections,"[3, 5]",positive,869
+good spreads great beverage selections and bagels really tasty,bagels,"[6, 7]",positive,870
+but who says murray s is anything about service,service,"[8, 9]",negative,871
+the service is awful,service,"[1, 2]",negative,872
+this place is not worth the prices,place,"[1, 2]",negative,873
+this place is not worth the prices,place,"[1, 2]",negative,874
+love pizza 33,pizza 33,"[1, 3]",positive,875
+i will be out with friends and all of a sudden i am hungry and i only crave one thing their pizza,pizza,"[21, 22]",positive,876
+this tiny williamsburg spot is always pleasantly surprising,williamsburg spot,"[2, 4]",positive,877
+the pizza is delicious and the proprietor is one of the nicest in nyc,pizza,"[1, 2]",positive,878
+the pizza is delicious and the proprietor is one of the nicest in nyc,proprietor,"[6, 7]",positive,879
+the cream cheeses are out of this world and i love that coffee,cream cheeses,"[1, 3]",positive,880
+the cream cheeses are out of this world and i love that coffee,coffee,"[12, 13]",positive,881
+bagels are ok but be sure not to make any special requests,bagels,"[0, 1]",neutral,882
+i asked for an open faced cheese sandwich and the manager basically told me to take my business elsewhere,manager,"[10, 11]",negative,883
+be sure not to get anything other than bagels,bagels,"[8, 9]",positive,884
+the turkey burgers are scary,turkey burgers,"[1, 3]",negative,885
+the soup for the udon was soy sauce and water,soup for the udon,"[1, 5]",negative,886
+the sushi was awful,sushi,"[1, 2]",negative,887
+the rice was poor quality and was cooked so badly it was hard,rice,"[1, 2]",negative,888
+furthermore the rice had no seasoning so the sushi was bland and disgusting,rice,"[2, 3]",negative,889
+furthermore the rice had no seasoning so the sushi was bland and disgusting,sushi,"[8, 9]",negative,890
+the fish was adequate but inexpertly sliced,fish,"[1, 2]",negative,891
+it is obvious that no one in the restaurant has any idea about or experience with japanese cuisine,japanese cuisine,"[16, 18]",negative,892
+good fast service,service,"[2, 3]",positive,893
+food is great and inexpensive,food,"[0, 1]",positive,894
+food is great and inexpensive,food,"[0, 1]",positive,895
+the location is perfect,location,"[1, 2]",positive,896
+well this place is so ghetto its not even funny,place,"[2, 3]",negative,897
+if you like your music blasted and the system isnt that great and if you want to pay at least 100 dollar bottle minimun then you ll love it here,bottle,"[22, 23]",negative,898
+if you like your music blasted and the system isnt that great and if you want to pay at least 100 dollar bottle minimun then you ll love it here,music,"[4, 5]",negative,899
+awsome pizza especially the margheritta slice,pizza,"[1, 2]",positive,900
+awsome pizza especially the margheritta slice,margheritta slice,"[4, 6]",positive,901
+great atmoshere and worth every bit,atmoshere,"[1, 2]",positive,902
+winnie and her staff are the best crew you can find serving you,staff,"[3, 4]",positive,903
+winnie and her staff are the best crew you can find serving you,winnie,"[0, 1]",positive,904
+the food is reliable and the price is moderate,food,"[1, 2]",positive,905
+for authentic thai food look no further than toons,thai food,"[2, 4]",positive,906
+try the pad thai or sample anything on the appetizer menu they re all delicious,pad thai,"[2, 4]",positive,907
+try the pad thai or sample anything on the appetizer menu they re all delicious,appetizer menu,"[9, 11]",positive,908
+everything about this restaurant was special,restaurant,"[3, 4]",positive,909
+the service was attentive yet discreet,service,"[1, 2]",positive,910
+the brioche and lollies as party favors is a cute and sweet touch to a most memorable meal,brioche and lollies,"[1, 4]",positive,911
+the place was quiet and delightful,place,"[1, 2]",positive,912
+service was good and food is wonderful,service,"[0, 1]",positive,913
+service was good and food is wonderful,food,"[4, 5]",positive,914
+i did not try the caviar but i tried their salmon and crab salad they are all good,salmon,"[10, 11]",positive,915
+i did not try the caviar but i tried their salmon and crab salad they are all good,crab salad,"[12, 14]",positive,916
+it is definitely a good spot for snacks and chat,spot,"[5, 6]",positive,917
+as a retired hipster i can say with some degree of certainty that for the last year lucky strike has been the best laid back late night in the city,lucky strike,"[17, 19]",positive,918
+the wait staff is pleasant fun and for the most part gorgeous in the wonderful aesthetic beautification way not in that she s way cuter than me that b way,wait staff,"[1, 3]",positive,919
+the food is yummy especially their cooked to perfection mussels in spicy tomato sauce and their shoestring crispy fries,food,"[1, 2]",positive,920
+the food is yummy especially their cooked to perfection mussels in spicy tomato sauce and their shoestring crispy fries,mussels in spicy tomato sauce,"[9, 14]",positive,921
+the food is yummy especially their cooked to perfection mussels in spicy tomato sauce and their shoestring crispy fries,fries,"[18, 19]",positive,922
+but the best part about ls is the late night atmosphere delightfully free of the bts,late night atmosphere,"[8, 11]",positive,923
+you can get a completely delish martini in a glass that s about 2 1 2 drinks for 8 50 i recommend the vanilla shanty mmmm in a great homey setting with great music,martini,"[6, 7]",positive,924
+you can get a completely delish martini in a glass that s about 2 1 2 drinks for 8 50 i recommend the vanilla shanty mmmm in a great homey setting with great music,martini,"[6, 7]",positive,925
+you can get a completely delish martini in a glass that s about 2 1 2 drinks for 8 50 i recommend the vanilla shanty mmmm in a great homey setting with great music,martini,"[6, 7]",positive,926
+you can get a completely delish martini in a glass that s about 2 1 2 drinks for 8 50 i recommend the vanilla shanty mmmm in a great homey setting with great music,vanilla shanty,"[23, 25]",positive,927
+you can get a completely delish martini in a glass that s about 2 1 2 drinks for 8 50 i recommend the vanilla shanty mmmm in a great homey setting with great music,setting,"[30, 31]",positive,928
+you can get a completely delish martini in a glass that s about 2 1 2 drinks for 8 50 i recommend the vanilla shanty mmmm in a great homey setting with great music,music,"[33, 34]",positive,929
+the in house lady dj on saturday nights has outrageously good taste in music and moreover takes requests,in house lady dj,"[1, 5]",positive,930
+you can t go wrong with this place,place,"[7, 8]",positive,931
+suan is a great place that i often take my friends classmates too,suan,"[0, 1]",positive,932
+its location is good and the fact that hutner college is near and their prices are very reasonable makes students go back to suan again and again,location,"[1, 2]",positive,933
+its location is good and the fact that hutner college is near and their prices are very reasonable makes students go back to suan again and again,suan,"[23, 24]",positive,934
+i love their thai,thai,"[3, 4]",positive,935
+noodles with shrimp and chicken and coconut juice is the must,noodles with shrimp and chicken and coconut juice,"[0, 8]",positive,936
+i will go back to suan soon,suan,"[5, 6]",positive,937
+in summer eat outside on a terrace another great feature of suan,terrace,"[6, 7]",positive,938
+i cannot imagine a friendlier staff working in a restaurant,staff,"[5, 6]",positive,939
+i cannot imagine better indian food in all of the city,indian food,"[4, 6]",positive,940
+during the course of the past 3 months the chef and staff changed and it was not for the better,chef,"[9, 10]",negative,941
+during the course of the past 3 months the chef and staff changed and it was not for the better,staff,"[11, 12]",negative,942
+the food now is inconsistent,food,"[1, 2]",negative,943
+this is the kind of place you d like to take all your friends to and still keep a secret,place,"[5, 6]",positive,944
+the setting is casual and romantic,setting,"[1, 2]",positive,945
+the food is excellent,food,"[1, 2]",positive,946
+if you re daring try the balsamic vinegar over icecream it s wonderful,balsamic vinegar over icecream,"[6, 10]",positive,947
+do not get the go go hamburgers no matter what the reviews say,go go hamburgers,"[4, 7]",negative,948
+the rest of the dim sum though pricey by chinatown standards is worth it,dim sum,"[4, 6]",negative,949
+the rest of the dim sum though pricey by chinatown standards is worth it,dim sum,"[4, 6]",positive,950
+the wait here is long for dim sum but if you don t like sharing tables or if the typical raucous dim sum atmosphere is not your gig this is a sleek for chinatown alternative,wait,"[1, 2]",negative,951
+the wait here is long for dim sum but if you don t like sharing tables or if the typical raucous dim sum atmosphere is not your gig this is a sleek for chinatown alternative,atmosphere,"[23, 24]",negative,952
+a few tips skip the turnip cake roast pork buns and egg custards,turnip cake,"[5, 7]",negative,953
+a few tips skip the turnip cake roast pork buns and egg custards,roast pork buns,"[7, 10]",negative,954
+a few tips skip the turnip cake roast pork buns and egg custards,egg custards,"[11, 13]",negative,955
+the food was exceptional,food,"[1, 2]",positive,956
+i choose to go with one of the special the braised lamb shank in red wine which was excellent,braised lamb shank in red wine,"[10, 16]",positive,957
+the service was friendly and the atmosphere was casual,service,"[1, 2]",positive,958
+the service was friendly and the atmosphere was casual,atmosphere,"[6, 7]",neutral,959
+the restaurant is a bit noisy but that is something that can be overlooked once you sit down and enjoy a great meal,meal,"[22, 23]",positive,960
+the restaurant is a bit noisy but that is something that can be overlooked once you sit down and enjoy a great meal,restaurant,"[1, 2]",negative,961
+this little place has a cute interior decor and affordable city prices,interior decor,"[6, 8]",positive,962
+this little place has a cute interior decor and affordable city prices,place,"[2, 3]",positive,963
+the pad se ew chicken was delicious however the pad thai was far too oily,pad se ew chicken,"[1, 5]",positive,964
+the pad se ew chicken was delicious however the pad thai was far too oily,pad thai,"[9, 11]",negative,965
+have eaten at ginger house several times and it s always good,ginger house,"[3, 5]",positive,966
+the fried dumplings are great,fried dumplings,"[1, 3]",positive,967
+finally a reliable chinese restaurant,chinese restaurant,"[3, 5]",positive,968
+this place would be so much better served by being run by a group that actually understands customer service,customer service,"[17, 19]",negative,969
+terrible terrible management deserves to be shut down,management,"[2, 3]",negative,970
+delicious bagels especially when right out of the oven,bagels,"[1, 2]",positive,971
+spreads and toppings are great though a bit pricey,spreads,"[0, 1]",positive,972
+spreads and toppings are great though a bit pricey,toppings,"[2, 3]",positive,973
+spreads and toppings are great though a bit pricey,spreads,"[0, 1]",negative,974
+spreads and toppings are great though a bit pricey,toppings,"[2, 3]",negative,975
+service is fast and friendly,service,"[0, 1]",positive,976
+the food is decent at best and the ambience well it s a matter of opinion some may consider it to be a sweet thing i thought it was just annoying,food,"[1, 2]",negative,977
+the food is decent at best and the ambience well it s a matter of opinion some may consider it to be a sweet thing i thought it was just annoying,ambience,"[8, 9]",negative,978
+rao is a good restaurant but it s nothing special,rao,"[0, 1]",neutral,979
+but after last night spice grill is the only place i m eating indian cuisine,indian cuisine,"[13, 15]",positive,980
+you must try the shrimp appetizers,shrimp appetizers,"[4, 6]",positive,981
+this place has the the correct ambience and an excellent staff to make you feel like a guest and a friend at the same time,ambience,"[6, 7]",positive,982
+this place has the the correct ambience and an excellent staff to make you feel like a guest and a friend at the same time,staff,"[10, 11]",positive,983
+great food great prices great service,food,"[1, 2]",positive,984
+great food great prices great service,service,"[5, 6]",positive,985
+if you are looking for a good quality cheap eats this is the place,eats,"[9, 10]",positive,986
+if you are looking for a good quality cheap eats this is the place,eats,"[9, 10]",positive,987
+it s a perfect place to have a amanzing indian food,indian food,"[9, 11]",positive,988
+i really loved the different and inovated touch that s the cheff gives to the food,cheff,"[11, 12]",positive,989
+also it s great to have dinner in a very romantic and confortable place the service it s just perfect they re so frendly that we never want to live the place,place,"[13, 14]",positive,990
+also it s great to have dinner in a very romantic and confortable place the service it s just perfect they re so frendly that we never want to live the place,service,"[15, 16]",positive,991
+their bagels are fine but they are a little overcooked and not really a special bagel experience,bagels,"[1, 2]",negative,992
+great bagels made the old fashioned way,bagels,"[1, 2]",positive,993
+great bagels made the old fashioned way,bagels,"[1, 2]",positive,994
+drawbacks service is slow and they don t toast,service,"[1, 2]",negative,995
+the food was absolutely amazing,food,"[1, 2]",positive,996
+the baked clams octopus we shared as appetizers were the best we ve ever had,baked clams octopus,"[1, 4]",positive,997
+the lamb was tender so full of flavor the dessert was divine,lamb,"[1, 2]",positive,998
+the lamb was tender so full of flavor the dessert was divine,dessert,"[9, 10]",positive,999
+the waiter was attentive,waiter,"[1, 2]",positive,1000
+the place itself is beautiful the bar scene seems to be happening,place,"[1, 2]",positive,1001
+the place itself is beautiful the bar scene seems to be happening,bar scene,"[6, 8]",positive,1002
+downtown dinner 2002 prixe fix appetizers were ok waiter gave me poor suggestion try the potato stuff kanish best one,appetizers,"[5, 6]",neutral,1003
+downtown dinner 2002 prixe fix appetizers were ok waiter gave me poor suggestion try the potato stuff kanish best one,waiter,"[8, 9]",negative,1004
+downtown dinner 2002 prixe fix appetizers were ok waiter gave me poor suggestion try the potato stuff kanish best one,potato stuff kanish,"[15, 18]",positive,1005
+small servings for main entree i had salmon wasnt impressed girlfriend had chicken it was good,salmon,"[7, 8]",negative,1006
+small servings for main entree i had salmon wasnt impressed girlfriend had chicken it was good,chicken,"[12, 13]",positive,1007
+small servings for main entree i had salmon wasnt impressed girlfriend had chicken it was good,servings for main entree,"[1, 5]",negative,1008
+dessert is a joke dont bother,dessert,"[0, 1]",negative,1009
+volare virgins or weekly regulars everyone gets treated the same and you can t ask for more than that when the service is this friendly,service,"[21, 22]",positive,1010
+the restaurant has a family feel not least with regard to the portions which are enormous the veal alone could have single handedly solved third world famine,restaurant,"[1, 2]",positive,1011
+the restaurant has a family feel not least with regard to the portions which are enormous the veal alone could have single handedly solved third world famine,portions,"[12, 13]",positive,1012
+the restaurant has a family feel not least with regard to the portions which are enormous the veal alone could have single handedly solved third world famine,veal,"[17, 18]",positive,1013
+the anti pasta was excellent especially the calamari as were the filling pasta mains,anti pasta,"[1, 3]",positive,1014
+the anti pasta was excellent especially the calamari as were the filling pasta mains,calamari,"[7, 8]",positive,1015
+the anti pasta was excellent especially the calamari as were the filling pasta mains,pasta mains,"[12, 14]",positive,1016
+the anti pasta was excellent especially the calamari as were the filling pasta mains,pasta mains,"[12, 14]",positive,1017
+the wine list is extensive and can easily hike up an otherwise reasonably priced meal,wine list,"[1, 3]",positive,1018
+the wine list is extensive and can easily hike up an otherwise reasonably priced meal,meal,"[14, 15]",positive,1019
+still any quibbles about the bill were off set by the pour your own measures of liquers which were courtesey of the house,measures of liquers,"[14, 17]",positive,1020
+fantastic place,place,"[1, 2]",positive,1021
+lucky strike is a great casual place to just grab a bite to eat,lucky strike,"[0, 2]",positive,1022
+great food great decor great service,food,"[1, 2]",positive,1023
+great food great decor great service,decor,"[3, 4]",positive,1024
+great food great decor great service,service,"[5, 6]",positive,1025
+this is the perfect spot for meeting friends having lunch dinner pre theatre or after theatre drinks,spot,"[4, 5]",positive,1026
+always ask the bartender for the seasonal beer,seasonal beer,"[6, 8]",positive,1027
+excellent spot for holiday get togethers with co workers or friends that you haven t seen in a while,spot,"[1, 2]",positive,1028
+i have been doing all of the above at the heartland brewery for over 5 years now and i have never been disappointed,heartland brewery,"[10, 12]",positive,1029
+what a great place,place,"[3, 4]",positive,1030
+not the typical nyc gimmick theme restaurant,restaurant,"[6, 7]",positive,1031
+a cool bar with great food and tons of excellent beer,bar,"[2, 3]",positive,1032
+a cool bar with great food and tons of excellent beer,food,"[5, 6]",positive,1033
+a cool bar with great food and tons of excellent beer,beer,"[10, 11]",positive,1034
+a cool bar with great food and tons of excellent beer,beer,"[10, 11]",positive,1035
+the shrimp scampi was excellent and the antipasti were plentiful,shrimp scampi,"[1, 3]",positive,1036
+the shrimp scampi was excellent and the antipasti were plentiful,antipasti,"[7, 8]",positive,1037
+if you venture off the island of manhattan and can t seem to find a great italian restaurant drive to corona,corona,"[20, 21]",positive,1038
+the only thing more wonderful than the food which is exceptional is the service,food,"[7, 8]",positive,1039
+the only thing more wonderful than the food which is exceptional is the service,service,"[13, 14]",positive,1040
+the only thing the waiters don t do for you is wipe your chin when you leave,waiters,"[4, 5]",positive,1041
+cozy romantic atomosphere with only around 15 tables at most,atomosphere,"[2, 3]",positive,1042
+service was very prompt but slightly rushed,service,"[0, 1]",positive,1043
+food was very good but not what i would consider out of this world,food,"[0, 1]",neutral,1044
+too bad the food wasn t of the same heritage,food,"[3, 4]",negative,1045
+the porcini mushroom pasta special was tasteless so was the seafood tagliatelle,porcini mushroom pasta special,"[1, 5]",negative,1046
+the porcini mushroom pasta special was tasteless so was the seafood tagliatelle,seafood tagliatelle,"[10, 12]",negative,1047
+but that wasn t the icing on the cake a tiramisu that resembled nothing i have ever had,tiramisu,"[10, 11]",negative,1048
+i really liked this place,place,"[4, 5]",positive,1049
+this place has the best chinese style bbq ribs in the city,bbq ribs,"[7, 9]",positive,1050
+this place has the best chinese style bbq ribs in the city,bbq ribs,"[7, 9]",positive,1051
+i also recommend the rice dishes or the different varieties of congee rice porridge,rice dishes,"[4, 6]",positive,1052
+i also recommend the rice dishes or the different varieties of congee rice porridge,congee rice porridge,"[11, 14]",positive,1053
+it s definately not a place to go if you want to impress someone,place,"[5, 6]",negative,1054
+however if you want great food at a great price and don t mind the decor you can t beat this place,food,"[5, 6]",positive,1055
+however if you want great food at a great price and don t mind the decor you can t beat this place,decor,"[15, 16]",neutral,1056
+however if you want great food at a great price and don t mind the decor you can t beat this place,food,"[5, 6]",positive,1057
+quick and friendly service,service,"[3, 4]",positive,1058
+when you re sitting in their main dining room which has a spectacular hand painted high ceiling you d never know there was a world outside,main dining room,"[6, 9]",positive,1059
+when you re sitting in their main dining room which has a spectacular hand painted high ceiling you d never know there was a world outside,ceiling,"[16, 17]",positive,1060
+the food is wonderful tasty and filling and the service is professional and friendly,food,"[1, 2]",positive,1061
+the food is wonderful tasty and filling and the service is professional and friendly,food,"[1, 2]",positive,1062
+the food is wonderful tasty and filling and the service is professional and friendly,service,"[9, 10]",positive,1063
+i can t wait for summer when they serve outside on their gigantic patio,patio,"[13, 14]",positive,1064
+i recently tried suan and i thought that it was great,suan,"[3, 4]",positive,1065
+this little place definitely exceeded my expectations and you sure get a lot of food for your money,food,"[14, 15]",positive,1066
+this little place definitely exceeded my expectations and you sure get a lot of food for your money,place,"[2, 3]",positive,1067
+this little place definitely exceeded my expectations and you sure get a lot of food for your money,food,"[14, 15]",positive,1068
+the service was fast and friendly and the food was very tasty and they had the best hot sauce to add to your meals,service,"[1, 2]",positive,1069
+the service was fast and friendly and the food was very tasty and they had the best hot sauce to add to your meals,food,"[8, 9]",positive,1070
+the service was fast and friendly and the food was very tasty and they had the best hot sauce to add to your meals,hot sauce,"[17, 19]",positive,1071
+good food,food,"[1, 2]",positive,1072
+good drink,drink,"[1, 2]",positive,1073
+i have never had cheescake like this,cheescake,"[4, 5]",positive,1074
+great spot whether looking for a couple of drinks or quiet dinner,spot,"[1, 2]",positive,1075
+great spot whether looking for a couple of drinks or quiet dinner,spot,"[1, 2]",positive,1076
+warm and friendly in the winter and terrific outdoor seating in the warmer months,outdoor seating,"[8, 10]",positive,1077
+the food is great and they have a good selecion of wines at reasonable prices,food,"[1, 2]",positive,1078
+the food is great and they have a good selecion of wines at reasonable prices,wines,"[11, 12]",positive,1079
+the food is great and they have a good selecion of wines at reasonable prices,wines,"[11, 12]",positive,1080
+while the ambiance and atmosphere were great the food and service could have been a lot better,ambiance,"[2, 3]",positive,1081
+while the ambiance and atmosphere were great the food and service could have been a lot better,atmosphere,"[4, 5]",positive,1082
+while the ambiance and atmosphere were great the food and service could have been a lot better,food,"[8, 9]",negative,1083
+while the ambiance and atmosphere were great the food and service could have been a lot better,service,"[10, 11]",negative,1084
+we ordered the chicken casserole but what we got were a few small pieces of chicken all dark meat and on the bone,chicken casserole,"[3, 5]",negative,1085
+we ordered the chicken casserole but what we got were a few small pieces of chicken all dark meat and on the bone,chicken casserole,"[3, 5]",negative,1086
+i ve been to sapphire twice and both times the food was fine if not good,food,"[10, 11]",positive,1087
+stick with the chicken beef and lamb dishes,chicken,"[3, 4]",positive,1088
+stick with the chicken beef and lamb dishes,beef,"[4, 5]",positive,1089
+stick with the chicken beef and lamb dishes,lamb dishes,"[6, 8]",positive,1090
+service is friendly and never had a problem walking in and getting a table,service,"[0, 1]",positive,1091
+skip dessert,dessert,"[1, 2]",negative,1092
+best reuben sandwich ever,reuben sandwich,"[1, 3]",positive,1093
+don t miss bloom s on your next trip to manhatten,bloom s,"[3, 5]",positive,1094
+it was the first place we ate on our first trip to new york and it will be the last place we stop as we head out of town on our next trip to new york,place,"[4, 5]",positive,1095
+thanks bloom s for a lovely trip,bloom s,"[1, 3]",positive,1096
+the food was not fresh the sauces were bland and very oily,food,"[1, 2]",negative,1097
+the food was not fresh the sauces were bland and very oily,sauces,"[6, 7]",negative,1098
+pizza was a little soggy,pizza,"[0, 1]",negative,1099
+ravioli was good but i have to say that i found everything a bit overpriced,ravioli,"[0, 1]",positive,1100
+not enough wines by the glass either,wines by the glass,"[2, 6]",negative,1101
+service however was excellent and i liked the setting atmosphere a lot,service,"[0, 1]",positive,1102
+service however was excellent and i liked the setting atmosphere a lot,setting atmosphere,"[8, 10]",positive,1103
+food was just average if they lowered the prices just a bit it would be a bigger draw,food,"[0, 1]",neutral,1104
+this place is a great bargain,place,"[1, 2]",positive,1105
+authentic pakistani food,pakistani food,"[1, 3]",positive,1106
+people are always friendly,people,"[0, 1]",positive,1107
+just straight up cheap good food,food,"[5, 6]",positive,1108
+just straight up cheap good food,food,"[5, 6]",positive,1109
+faan is sooo good,faan,"[0, 1]",positive,1110
+the best pad thai i ve ever had,pad thai,"[2, 4]",positive,1111
+the design and atmosphere is just as good,design,"[1, 2]",positive,1112
+the design and atmosphere is just as good,atmosphere,"[3, 4]",positive,1113
+bottles of wine are cheap and good,bottles of wine,"[0, 3]",positive,1114
+bottles of wine are cheap and good,bottles of wine,"[0, 3]",positive,1115
+the food was actually aweful,food,"[1, 2]",negative,1116
+the mussles were the fishiest things i ve ever tasted the seabass was bland the goat cheese salad was missing the goat cheese the penne w chicken had bones in it it was disgusting,mussles,"[1, 2]",negative,1117
+the mussles were the fishiest things i ve ever tasted the seabass was bland the goat cheese salad was missing the goat cheese the penne w chicken had bones in it it was disgusting,seabass,"[11, 12]",negative,1118
+the mussles were the fishiest things i ve ever tasted the seabass was bland the goat cheese salad was missing the goat cheese the penne w chicken had bones in it it was disgusting,goat cheese salad,"[15, 18]",negative,1119
+the mussles were the fishiest things i ve ever tasted the seabass was bland the goat cheese salad was missing the goat cheese the penne w chicken had bones in it it was disgusting,penne w chicken,"[24, 27]",negative,1120
+nice atmosphere the service was very pleasant and the desert was good,atmosphere,"[1, 2]",positive,1121
+nice atmosphere the service was very pleasant and the desert was good,service,"[3, 4]",positive,1122
+nice atmosphere the service was very pleasant and the desert was good,desert,"[9, 10]",positive,1123
+the jukebox plays everything from italian opera to the strokes,jukebox,"[1, 2]",positive,1124
+the food is amazing rich pastas and fresh doughy pizza,food,"[1, 2]",positive,1125
+the food is amazing rich pastas and fresh doughy pizza,pastas,"[5, 6]",positive,1126
+the food is amazing rich pastas and fresh doughy pizza,pizza,"[9, 10]",positive,1127
+best of all is the warm vibe the owner is super friendly and service is fast,vibe,"[6, 7]",positive,1128
+best of all is the warm vibe the owner is super friendly and service is fast,owner,"[8, 9]",positive,1129
+best of all is the warm vibe the owner is super friendly and service is fast,service,"[13, 14]",positive,1130
+go here for the drinks,drinks,"[4, 5]",positive,1131
+the drinks are amazing and half off till 8pm,drinks,"[1, 2]",positive,1132
+the drinks are amazing and half off till 8pm,drinks,"[1, 2]",positive,1133
+ask for usha the nicest bartender in manhattan,usha,"[2, 3]",positive,1134
+my fav was the sassy lassi,sassy lassi,"[4, 6]",positive,1135
+this is an amazing place to try some roti rolls,roti rolls,"[8, 10]",positive,1136
+i really recommend the very simple unda egg rolls,unda egg rolls,"[6, 9]",positive,1137
+delicate spices onions eggs and a kick ass roti,spices,"[1, 2]",positive,1138
+delicate spices onions eggs and a kick ass roti,onions,"[2, 3]",positive,1139
+delicate spices onions eggs and a kick ass roti,eggs,"[3, 4]",positive,1140
+delicate spices onions eggs and a kick ass roti,roti,"[8, 9]",positive,1141
+toons has recently been redone so it s now a very attractive space,toons,"[0, 1]",positive,1142
+the food s as good as ever,food,"[1, 2]",positive,1143
+in an area sadly lacking in decent thai food this is one of the best spots,thai food,"[7, 9]",positive,1144
+went here last night nice decor good service but the food was surprisingly excellent,decor,"[5, 6]",positive,1145
+went here last night nice decor good service but the food was surprisingly excellent,service,"[7, 8]",positive,1146
+went here last night nice decor good service but the food was surprisingly excellent,food,"[10, 11]",positive,1147
+the portions are huge so it might be good to order three things to split rather than one appetizer and entree per person for two people,portions,"[1, 2]",neutral,1148
+best drumsticks over rice and sour spicy soup in town,drumsticks over rice,"[1, 4]",positive,1149
+best drumsticks over rice and sour spicy soup in town,sour spicy soup,"[5, 8]",positive,1150
+beef noodle soup is good as well,beef noodle soup,"[0, 3]",positive,1151
+the service is good and the resturant is clean,service,"[1, 2]",positive,1152
+the service is good and the resturant is clean,resturant,"[6, 7]",positive,1153
+best taiwanese food in ny,taiwanese food,"[1, 3]",positive,1154
+i have been to rao s probably 15 times the past 3 years and it keeps getting better,rao s,"[4, 6]",positive,1155
+rao s has the best service and atmosphere in nyc,service,"[5, 6]",positive,1156
+rao s has the best service and atmosphere in nyc,atmosphere,"[7, 8]",positive,1157
+my roommate and i love this place,place,"[6, 7]",positive,1158
+we recently decided to try this location and to our delight they have outdoor seating perfect since i had my yorkie with me,outdoor seating,"[13, 15]",positive,1159
+indoor was very cozy and cute,indoor,"[0, 1]",positive,1160
+the portion sizes here are huge and the sushi is good,portion sizes,"[1, 3]",positive,1161
+the portion sizes here are huge and the sushi is good,sushi,"[8, 9]",positive,1162
+staff is very accomodating,staff,"[0, 1]",positive,1163
+excellent dumplings served amid clean chic decor,dumplings,"[1, 2]",positive,1164
+excellent dumplings served amid clean chic decor,decor,"[6, 7]",positive,1165
+i got the 10 10 piece dim sum combo every bite of which was great,10 10 piece dim sum combo,"[3, 9]",positive,1166
+the decor is very simple but comfortable,decor,"[1, 2]",positive,1167
+the food was delicious but do not come here on a empty stomach,food,"[1, 2]",positive,1168
+the food was delicious but do not come here on a empty stomach,food,"[1, 2]",negative,1169
+the portions are small but being that the food was so good makes up for that,portions,"[1, 2]",negative,1170
+the portions are small but being that the food was so good makes up for that,food,"[8, 9]",positive,1171
+you must have the crabmeat lasagna which is out of this world and the chocolate bread pudding for dessert,crabmeat lasagna,"[4, 6]",positive,1172
+you must have the crabmeat lasagna which is out of this world and the chocolate bread pudding for dessert,chocolate bread pudding,"[14, 17]",positive,1173
+the staff there is very attentive and down to earth,staff,"[1, 2]",positive,1174
+great indian food and the service is incredible,indian food,"[1, 3]",positive,1175
+great indian food and the service is incredible,service,"[5, 6]",positive,1176
+the owner truly caters to all your needs,owner,"[1, 2]",positive,1177
+great food and the prices are very reasonable,food,"[1, 2]",positive,1178
+the food here does a great service to the name cantonese that is,food,"[1, 2]",positive,1179
+i fell in love with the egg noodles in the beef broth with shrimp dumplings and slices of bbq roast pork,egg noodles in the beef broth with shrimp dumplings and slices of bbq roast pork,"[6, 21]",positive,1180
+this dish is my favorite and i always get it when i go there and never get tired of it,dish,"[1, 2]",positive,1181
+try the congee and the donut like deep fried dough they call ow ley soh a delicious and sweet tasting bread,congee,"[2, 3]",positive,1182
+try the congee and the donut like deep fried dough they call ow ley soh a delicious and sweet tasting bread,ow ley soh,"[12, 15]",positive,1183
+simply some good tasting chinese food at incredible prices,chinese food,"[4, 6]",positive,1184
+simply some good tasting chinese food at incredible prices,chinese food,"[4, 6]",positive,1185
+service is not what you are coming here for,service,"[0, 1]",negative,1186
+big wong is a great place to eat and fill your stomach,big wong,"[0, 2]",positive,1187
+whoever the jazz duo was they were on point,jazz duo,"[2, 4]",positive,1188
+good music great food speedy service affordable prices,music,"[1, 2]",positive,1189
+good music great food speedy service affordable prices,food,"[3, 4]",positive,1190
+good music great food speedy service affordable prices,service,"[5, 6]",positive,1191
+even the wine by the glass was good,wine by the glass,"[2, 6]",positive,1192
+consistently good japanese tapas,japanese tapas,"[2, 4]",positive,1193
+always good drinks and service is pretty good,drinks,"[2, 3]",positive,1194
+always good drinks and service is pretty good,service,"[4, 5]",positive,1195
+atmosphere is nice and relaxed too,atmosphere,"[0, 1]",positive,1196
+a great place to meet up for some food and drinks,place,"[2, 3]",positive,1197
+yakitori bbq meats is tasty too,yakitori bbq meats,"[0, 3]",positive,1198
+if you don t mind pre sliced low quality fish unfriendly staff and a sushi chef that looks like he is miserable then this is your place,fish,"[9, 10]",negative,1199
+if you don t mind pre sliced low quality fish unfriendly staff and a sushi chef that looks like he is miserable then this is your place,staff,"[11, 12]",negative,1200
+if you don t mind pre sliced low quality fish unfriendly staff and a sushi chef that looks like he is miserable then this is your place,sushi chef,"[14, 16]",negative,1201
+price and quality of fish alone will keep us from making a return visit,fish,"[4, 5]",negative,1202
+price and quality of fish alone will keep us from making a return visit,fish,"[4, 5]",negative,1203
+wasn t going to share but i feel obligated while sitting at the sushi bar dining we watched the chef accidentally drop a piece of unagi on the floor and upon retrieving it from the floor proceed to use the piece in the delivery order he was preparing,chef,"[19, 20]",negative,1204
+this place which is only a few months old is perhaps queens biggest secret,place,"[1, 2]",positive,1205
+fabulous decor makes you feel like you re in a trendy manhattan restaurant very very good food cheaply priced generally friendly staff and if you re a manhattanite or spend most of your time in manhattan rice avenue will make you feel at home very soho village upper west side minus the expensive prices and pretentious clientele all on roosevelt avenue,decor,"[1, 2]",positive,1206
+fabulous decor makes you feel like you re in a trendy manhattan restaurant very very good food cheaply priced generally friendly staff and if you re a manhattanite or spend most of your time in manhattan rice avenue will make you feel at home very soho village upper west side minus the expensive prices and pretentious clientele all on roosevelt avenue,food,"[16, 17]",positive,1207
+fabulous decor makes you feel like you re in a trendy manhattan restaurant very very good food cheaply priced generally friendly staff and if you re a manhattanite or spend most of your time in manhattan rice avenue will make you feel at home very soho village upper west side minus the expensive prices and pretentious clientele all on roosevelt avenue,food,"[16, 17]",positive,1208
+fabulous decor makes you feel like you re in a trendy manhattan restaurant very very good food cheaply priced generally friendly staff and if you re a manhattanite or spend most of your time in manhattan rice avenue will make you feel at home very soho village upper west side minus the expensive prices and pretentious clientele all on roosevelt avenue,staff,"[21, 22]",positive,1209
+fabulous decor makes you feel like you re in a trendy manhattan restaurant very very good food cheaply priced generally friendly staff and if you re a manhattanite or spend most of your time in manhattan rice avenue will make you feel at home very soho village upper west side minus the expensive prices and pretentious clientele all on roosevelt avenue,rice avenue,"[36, 38]",positive,1210
+fabulous decor makes you feel like you re in a trendy manhattan restaurant very very good food cheaply priced generally friendly staff and if you re a manhattanite or spend most of your time in manhattan rice avenue will make you feel at home very soho village upper west side minus the expensive prices and pretentious clientele all on roosevelt avenue,rice avenue,"[36, 38]",positive,1211
+fabulous decor makes you feel like you re in a trendy manhattan restaurant very very good food cheaply priced generally friendly staff and if you re a manhattanite or spend most of your time in manhattan rice avenue will make you feel at home very soho village upper west side minus the expensive prices and pretentious clientele all on roosevelt avenue,rice avenue,"[36, 38]",positive,1212
+we were seated outside and the waiter spilled red wine and hot tea on myself and my date,waiter,"[6, 7]",negative,1213
+one would think we d get an apology or complimentary drinks instead we got a snobby waiter wouldn t even take our order for 15 minutes and gave us lip when we asked him to do so,waiter,"[16, 17]",negative,1214
+with so many good restaurants on the uws i don t need overpriced food absurdly arrogant wait staff who don t recognize they work at a glorified diner clumsy service and management that doesn t care,food,"[13, 14]",negative,1215
+with so many good restaurants on the uws i don t need overpriced food absurdly arrogant wait staff who don t recognize they work at a glorified diner clumsy service and management that doesn t care,wait staff,"[16, 18]",negative,1216
+with so many good restaurants on the uws i don t need overpriced food absurdly arrogant wait staff who don t recognize they work at a glorified diner clumsy service and management that doesn t care,service,"[29, 30]",negative,1217
+with so many good restaurants on the uws i don t need overpriced food absurdly arrogant wait staff who don t recognize they work at a glorified diner clumsy service and management that doesn t care,management,"[31, 32]",negative,1218
+i am relatively new to the area and tried pick a bgel on 2nd and was disappointed with the service and i thought the food was overated and on the pricey side,service,"[19, 20]",negative,1219
+i am relatively new to the area and tried pick a bgel on 2nd and was disappointed with the service and i thought the food was overated and on the pricey side,food,"[24, 25]",negative,1220
+i am relatively new to the area and tried pick a bgel on 2nd and was disappointed with the service and i thought the food was overated and on the pricey side,food,"[24, 25]",negative,1221
+the food is okay and the prices here are mediocre,food,"[1, 2]",neutral,1222
+baluchi s has solid food and a nice decor at reasonable prices,food,"[4, 5]",positive,1223
+baluchi s has solid food and a nice decor at reasonable prices,decor,"[8, 9]",positive,1224
+baluchi s has solid food and a nice decor at reasonable prices,baluchi s,"[0, 2]",positive,1225
+the only problem is that the manager is a complete incompetent,manager,"[6, 7]",negative,1226
+he offers subpar service and has no personality,service,"[3, 4]",negative,1227
+there is no excuse for such lousy service,service,"[7, 8]",negative,1228
+i have never before eaten 40 pieces of relatively good nigiri,nigiri,"[10, 11]",neutral,1229
+20 for all you can eat sushi cannot be beaten,all you can eat sushi,"[2, 7]",positive,1230
+i went to areo on a sunday afternoon with four of my girlfriends and spent three enjoyable hours there,areo,"[3, 4]",positive,1231
+most of the servers are very attentive friendly and quite attractive,servers,"[3, 4]",positive,1232
+the vibe is very relaxed and cozy service was great and the food was excellent,vibe,"[1, 2]",positive,1233
+the vibe is very relaxed and cozy service was great and the food was excellent,service,"[7, 8]",positive,1234
+the vibe is very relaxed and cozy service was great and the food was excellent,food,"[12, 13]",positive,1235
+food was good and the view of the new york city skiline was terrific even on a foggy rainy day like that of when i went,food,"[0, 1]",positive,1236
+food was good and the view of the new york city skiline was terrific even on a foggy rainy day like that of when i went,view of the new york city skiline,"[5, 12]",positive,1237
+i would highly recommand requesting a table by the window,table by the window,"[6, 10]",positive,1238
+although they do the typical what kind of water would you like questions the service was good and overall very relaxing to place to eat,service,"[14, 15]",positive,1239
+although they do the typical what kind of water would you like questions the service was good and overall very relaxing to place to eat,place,"[22, 23]",positive,1240
+the food is great,food,"[1, 2]",positive,1241
+personal pans are the perfect size for those hungry nights,personal pans,"[0, 2]",positive,1242
+there is a downside if you re ordering in the delivery guys have major attitude,delivery guys,"[10, 12]",negative,1243
+never have i had such dramatic delivery guys a lot of huffing and panting and muttering under breath b c i live in a walkup who always seem disappointed with their tips,delivery guys,"[6, 8]",negative,1244
+love the scene first off the place has a character and nice light to it very fortunate location wise,scene,"[2, 3]",positive,1245
+love the scene first off the place has a character and nice light to it very fortunate location wise,place,"[6, 7]",positive,1246
+love the scene first off the place has a character and nice light to it very fortunate location wise,location,"[17, 18]",positive,1247
+the pizza was pretty good and huge,pizza,"[1, 2]",positive,1248
+the pizza was pretty good and huge,pizza,"[1, 2]",positive,1249
+we were 4 and got the family size penne a la vodka which was tremendously gigantic portion a bucket of food literally,penne a la vodka,"[8, 12]",positive,1250
+the pasta penne was pretty extra buttery creamy which means a big task to diggest tasty at first but i would say that i was full with a slice of pizza and 7 to count penne got a little moody afterwards cause was stuffed lol,pasta penne,"[1, 3]",negative,1251
+the pasta penne was pretty extra buttery creamy which means a big task to diggest tasty at first but i would say that i was full with a slice of pizza and 7 to count penne got a little moody afterwards cause was stuffed lol,pasta penne,"[1, 3]",negative,1252
+la rosa waltzes in and i think they are doing it the best,la rosa,"[0, 2]",positive,1253
+interesting selection good wines service fine fun decor,wines,"[3, 4]",positive,1254
+interesting selection good wines service fine fun decor,service,"[4, 5]",positive,1255
+interesting selection good wines service fine fun decor,decor,"[7, 8]",positive,1256
+interesting selection good wines service fine fun decor,selection,"[1, 2]",positive,1257
+i found it on a cold night the perfect spot to warm up,spot,"[9, 10]",positive,1258
+i recieved prompt service with a smile,service,"[3, 4]",positive,1259
+this place blew me away by far my new favorite restaurant on the uppereast side,place,"[1, 2]",positive,1260
+the wine list is extensive and impressive,wine list,"[1, 3]",positive,1261
+love the atmosphere felt like i was in paris,atmosphere,"[2, 3]",positive,1262
+the mussels were fantastic and so was the dessert definitely going to be back very soon,mussels,"[1, 2]",positive,1263
+the mussels were fantastic and so was the dessert definitely going to be back very soon,dessert,"[8, 9]",positive,1264
+i have been coming here for years and have nothing but good things to say about the service and the great staff at la lanterna,service,"[17, 18]",positive,1265
+i have been coming here for years and have nothing but good things to say about the service and the great staff at la lanterna,staff,"[21, 22]",positive,1266
+over the years the host vittorio and his crew have always treated me as family although with all the business this not so little gem does it amazing he s even able to remember a consistent but not so frequent visitor,host,"[4, 5]",positive,1267
+over the years the host vittorio and his crew have always treated me as family although with all the business this not so little gem does it amazing he s even able to remember a consistent but not so frequent visitor,crew,"[8, 9]",positive,1268
+i ve also been amazed at all the new additions in the past few years a new jazz bar the most fantastic dining garden the best thin crust pizzas and now a lasagna menu which is to die for these are not your average lasagnas,dining garden,"[22, 24]",positive,1269
+i ve also been amazed at all the new additions in the past few years a new jazz bar the most fantastic dining garden the best thin crust pizzas and now a lasagna menu which is to die for these are not your average lasagnas,jazz bar,"[17, 19]",positive,1270
+i ve also been amazed at all the new additions in the past few years a new jazz bar the most fantastic dining garden the best thin crust pizzas and now a lasagna menu which is to die for these are not your average lasagnas,thin crust pizzas,"[26, 29]",positive,1271
+i ve also been amazed at all the new additions in the past few years a new jazz bar the most fantastic dining garden the best thin crust pizzas and now a lasagna menu which is to die for these are not your average lasagnas,lasagna menu,"[32, 34]",positive,1272
+i love this place,place,"[3, 4]",positive,1273
+i have to say i have never had a disapointing meal here,meal,"[10, 11]",positive,1274
+we could have made a meal of the yummy dumplings from the dumpling menu,dumplings,"[9, 10]",positive,1275
+luckily we saved room for the bbq salmon sea bass and crispy duck,bbq salmon,"[6, 8]",positive,1276
+luckily we saved room for the bbq salmon sea bass and crispy duck,sea bass,"[8, 10]",positive,1277
+luckily we saved room for the bbq salmon sea bass and crispy duck,crispy duck,"[11, 13]",positive,1278
